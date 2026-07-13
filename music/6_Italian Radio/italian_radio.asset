@@ -1,0 +1,276 @@
+### ITALIAN ###
+music = {
+	name = "a_tripoli"
+	file = "a_tripoli.ogg"
+	volume = 1
+}
+music = {
+	name = "bandiera_rossa"
+	file = "bandiera_rossa.ogg"
+	volume = 1
+}
+music = {
+	name = "bandiere_colori"
+	file = "bandiere_colori.ogg"
+	volume = 1
+}
+music = {
+	name = "bella_ciao"
+	file = "bella_ciao.ogg"
+	volume = 1
+}
+music = {
+	name = "bersagliere_penne"
+	file = "bersagliere_penne.ogg"
+	volume = 1
+}
+music = {
+	name = "biondina_gondoleta"
+	file = "biondina_gondoleta.ogg"
+	volume = 1
+}
+music = {
+	name = "calzone_grappa"
+	file = "calzone_grappa.ogg"
+	volume = 1
+}
+music = {
+	name = "canto_italiani"
+	file = "canto_italiani.ogg"
+	volume = 1
+}
+music = {
+	name = "cicenerella"
+	file = "cicenerella.ogg"
+	volume = 1
+}
+music = {
+	name = "cielo_capri"
+	file = "cielo_capri.ogg"
+	volume = 1
+}
+music = {
+	name = "ciuri_ciuri"
+	file = "ciuri_ciuri.ogg"
+	volume = 1
+}
+music = {
+	name = "divina_patria"
+	file = "divina_patria.ogg"
+	volume = 1
+}
+music = {
+	name = "faccetta_nera"
+	file = "faccetta_nera.ogg"
+	volume = 1
+}
+music = {
+	name = "facette_mammeta"
+	file = "facette_mammeta.ogg"
+	volume = 1
+}
+music = {
+	name = "fiamme_nere"
+	file = "fiamme_nere.ogg"
+	volume = 1
+}
+music = {
+	name = "fischia_vento"
+	file = "fischia_vento.ogg"
+	volume = 1
+}
+music = {
+	name = "flik_flok"
+	file = "flik_flok.ogg"
+	volume = 1
+}
+music = {
+	name = "folgore_cielo"
+	file = "folgore_cielo.ogg"
+	volume = 1
+}
+music = {
+	name = "funiculi_funicula"
+	file = "funiculi_funicula.ogg"
+	volume = 1
+}
+music = {
+	name = "giovinezza"
+	file = "giovinezza.ogg"
+	volume = 1
+}
+music = {
+	name = "gorizia_maledetta"
+	file = "gorizia_maledetta.ogg"
+	volume = 1
+}
+music = {
+	name = "il_bersagliere"
+	file = "il_bersagliere.ogg"
+	volume = 1
+}
+music = {
+	name = "inno_garibaldi"
+	file = "inno_garibaldi.ogg"
+	volume = 1
+}
+music = {
+	name = "inno_oberdan"
+	file = "inno_oberdan.ogg"
+	volume = 1
+}
+music = {
+	name = "inno_roma"
+	file = "inno_roma.ogg"
+	volume = 1
+}
+music = {
+	name = "inno_sommergibilisti"
+	file = "inno_sommergibilisti.ogg"
+	volume = 1
+}
+music = {
+	name = "inno_virgo"
+	file = "inno_virgo.ogg"
+	volume = 1
+}
+music = {
+	name = "la_carettiana"
+	file = "la_carettiana.ogg"
+	volume = 1
+}
+music = {
+	name = "la_fedelissima"
+	file = "la_fedelissima.ogg"
+	volume = 1
+}
+music = {
+	name = "la_ritirata"
+	file = "la_ritirata.ogg"
+	volume = 1
+}
+music = {
+	name = "lambasciatore"
+	file = "lambasciatore.ogg"
+	volume = 1
+}
+music = {
+	name = "leggenda_piave"
+	file = "leggenda_piave.ogg"
+	volume = 1
+}
+music = {
+	name = "marcia_aeronautica"
+	file = "marcia_aeronautica.ogg"
+	volume = 1
+}
+music = {
+	name = "marcia_reale"
+	file = "marcia_reale.ogg"
+	volume = 1
+}
+music = {
+	name = "marcia_trionfale"
+	file = "marcia_trionfale.ogg"
+	volume = 1
+}
+music = {
+	name = "mazzolin_fiori"
+	file = "mazzolin_fiori.ogg"
+	volume = 1
+}
+music = {
+	name = "mezzo_mare"
+	file = "mezzo_mare.ogg"
+	volume = 1
+}
+music = {
+	name = "mia_bella"
+	file = "mia_bella.ogg"
+	volume = 1
+}
+music = {
+	name = "monte_pasubio"
+	file = "monte_pasubio.ogg"
+	volume = 1
+}
+music = {
+	name = "notte_pioveva"
+	file = "notte_pioveva.ogg"
+	volume = 1
+}
+music = {
+	name = "parata_eroi"
+	file = "parata_eroi.ogg"
+	volume = 1
+}
+music = {
+	name = "parlami_mariu"
+	file = "parlami_mariu.ogg"
+	volume = 1
+}
+music = {
+	name = "ponte_bassano"
+	file = "ponte_bassano.ogg"
+	volume = 1
+}
+music = {
+	name = "quattro_maggio"
+	file = "quattro_maggio.ogg"
+	volume = 1
+}
+music = {
+	name = "sagra_giarabub"
+	file = "sagra_giarabub.ogg"
+	volume = 1
+}
+music = {
+	name = "sole_mio"
+	file = "sole_mio.ogg"
+	volume = 1
+}
+music = {
+	name = "stornelli_mugellani"
+	file = "stornelli_mugellani.ogg"
+	volume = 1
+}
+music = {
+	name = "surdato_nnamurato"
+	file = "surdato_nnamurato.ogg"
+	volume = 1
+}
+music = {
+	name = "ta_pum"
+	file = "ta_pum.ogg"
+	volume = 1
+}
+music = {
+	name = "tammurriata_nera"
+	file = "tammurriata_nera.ogg"
+	volume = 1
+}
+music = {
+	name = "tarantella_napoletana"
+	file = "tarantella_napoletana.ogg"
+	volume = 1
+}
+music = {
+	name = "testamento_capitano"
+	file = "testamento_capitano.ogg"
+	volume = 1
+}
+music = {
+	name = "vecchio_scarpone"
+	file = "vecchio_scarpone.ogg"
+	volume = 1
+}
+music = {
+	name = "vincere_vincere"
+	file = "vincere_vincere.ogg"
+	volume = 1
+}
+music = {
+	name = "vitti_crozza"
+	file = "vitti_crozza.ogg"
+	volume = 1
+}

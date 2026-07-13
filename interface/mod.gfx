@@ -1,0 +1,37 @@
+spriteTypes = {
+    spriteType = {
+		name = "GFX_german_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//german_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_russian_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//russian_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_french_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//french_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_british_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//british_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_american_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//american_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_italian_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//italian_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_rotw_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//rotw_radio.dds"
+		noOfFrames = 2
+	}
+}

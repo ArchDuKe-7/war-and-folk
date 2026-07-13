@@ -1,0 +1,387 @@
+### BRITISH ###
+music = {
+	name = "amazing_grace"
+	file = "amazing_grace.ogg"
+	volume = 1
+}
+music = {
+	name = "auld_lang_syne"
+	file = "auld_lang_syne.ogg"
+	volume = 1
+}
+music = {
+	name = "barbara_allen"
+	file = "barbara_allen.ogg"
+	volume = 1
+}
+music = {
+	name = "belgium_kibosh"
+	file = "belgium_kibosh.ogg"
+	volume = 1
+}
+music = {
+	name = "black_bear"
+	file = "black_bear.ogg"
+	volume = 1
+}
+music = {
+	name = "boi_willie"
+	file = "boi_willie.ogg"
+	volume = 1
+}
+music = {
+	name = "british_grenadiers"
+	file = "british_grenadiers.ogg"
+	volume = 1
+}
+music = {
+	name = "cock_north"
+	file = "cock_north.ogg"
+	volume = 1
+}
+music = {
+	name = "colonel_bogey"
+	file = "colonel_bogey.ogg"
+	volume = 1
+}
+music = {
+	name = "dam_busters"
+	file = "dam_busters.ogg"
+	volume = 1
+}
+music = {
+	name = "duke_york"
+	file = "duke_york.ogg"
+	volume = 1
+}
+music = {
+	name = "flower_scotland"
+	file = "flower_scotland.ogg"
+	volume = 1
+}
+music = {
+	name = "garb_gaul"
+	file = "garb_gaul.ogg"
+	volume = 1
+}
+music = {
+	name = "god_save"
+	file = "god_save.ogg"
+	volume = 1
+}
+music = {
+	name = "goodnight_sergeantmajor"
+	file = "goodnight_sergeantmajor.ogg"
+	volume = 1
+}
+music = {
+	name = "greensleeves"
+	file = "greensleeves.ogg"
+	volume = 1
+}
+music = {
+	name = "heart_oak"
+	file = "heart_oak.ogg"
+	volume = 1
+}
+music = {
+	name = "highland_laddie"
+	file = "highland_laddie.ogg"
+	volume = 1
+}
+music = {
+	name = "holyrood"
+	file = "holyrood.ogg"
+	volume = 1
+}
+music = {
+	name = "inniskilling"
+	file = "inniskilling.ogg"
+	volume = 1
+}
+music = {
+	name = "jerusalem"
+	file = "jerusalem.ogg"
+	volume = 1
+}
+music = {
+	name = "kings_men"
+	file = "kings_men.ogg"
+	volume = 1
+}
+music = {
+	name = "last_post"
+	file = "last_post.ogg"
+	volume = 1
+}
+music = {
+	name = "liliburlero"
+	file = "liliburlero.ogg"
+	volume = 1
+}
+music = {
+	name = "loch_lomond"
+	file = "loch_lomond.ogg"
+	volume = 1
+}
+music = {
+	name = "lovely_war"
+	file = "lovely_war.ogg"
+	volume = 1
+}
+music = {
+	name = "men_harlech"
+	file = "men_harlech.ogg"
+	volume = 1
+}
+music = {
+	name = "milanollo"
+	file = "milanollo.ogg"
+	volume = 1
+}
+music = {
+	name = "nimrod"
+	file = "nimrod.ogg"
+	volume = 1
+}
+music = {
+	name = "ocean_wave"
+	file = "ocean_wave.ogg"
+	volume = 1
+}
+music = {
+	name = "old_brigade"
+	file = "old_brigade.ogg"
+	volume = 1
+}
+music = {
+	name = "old_hitler"
+	file = "old_hitler.ogg"
+	volume = 1
+}
+music = {
+	name = "pwales_qmarch"
+	file = "pwales_qmarch.ogg"
+	volume = 1
+}
+music = {
+	name = "raf_march"
+	file = "raf_march.ogg"
+	volume = 1
+}
+music = {
+	name = "royal_legion"
+	file = "royal_legion.ogg"
+	volume = 1
+}
+music = {
+	name = "scipio"
+	file = "scipio.ogg"
+	volume = 1
+}
+music = {
+	name = "scotland_brave"
+	file = "scotland_brave.ogg"
+	volume = 1
+}
+music = {
+	name = "scottish_soldier"
+	file = "scottish_soldier.ogg"
+	volume = 1
+}
+music = {
+	name = "skye_boat"
+	file = "skye_boat.ogg"
+	volume = 1
+}
+music = {
+	name = "soldiers_queen"
+	file = "soldiers_queen.ogg"
+	volume = 1
+}
+music = {
+	name = "st_patricks"
+	file = "st_patricks.ogg"
+	volume = 1
+}
+music = {
+	name = "the_girl"
+	file = "the_girl.ogg"
+	volume = 1
+}
+music = {
+	name = "thin_red_line"
+	file = "thin_red_line.ogg"
+	volume = 1
+}
+music = {
+	name = "third_dragoon"
+	file = "third_dragoon.ogg"
+	volume = 1
+}
+music = {
+	name = "tipperary"
+	file = "tipperary.ogg"
+	volume = 1
+}
+music = {
+	name = "ulster_division"
+	file = "ulster_division.ogg"
+	volume = 1
+}
+music = {
+	name = "vanished_army"
+	file = "vanished_army.ogg"
+	volume = 1
+}
+music = {
+	name = "lincolnshire_poacher"
+	file = "lincolnshire_poacher.ogg"
+	volume = 1
+}
+music = {
+	name = "hate_morning"
+	file = "hate_morning.ogg"
+	volume = 1
+}
+music = {
+	name = "over_the_hills"
+	file = "over_the_hills.ogg"
+	volume = 1
+}
+music = {
+	name = "pack_troubles"
+	file = "pack_troubles.ogg"
+	volume = 1
+}
+music = {
+	name = "roses_picardy"
+	file = "roses_picardy.ogg"
+	volume = 1
+}
+music = {
+	name = "scarborough_fair"
+	file = "scarborough_fair.ogg"
+	volume = 1
+}
+music = {
+	name = "firth_of_forth"
+	file = "firth_of_forth.ogg"
+	volume = 1
+}
+music = {
+	name = "washing_siegfried"
+	file = "washing_siegfried.ogg"
+	volume = 1
+}
+music = {
+	name = "king_enjoys"
+	file = "king_enjoys.ogg"
+	volume = 1
+}
+### v1.1 ###
+music = {
+	name = "army_nile"
+	file = "army_nile.ogg"
+	volume = 1
+}
+music = {
+	name = "calon_lan"
+	file = "calon_lan.ogg"
+	volume = 1
+}
+music = {
+	name = "campbells_coming"
+	file = "campbells_coming.ogg"
+	volume = 1
+}
+music = {
+	name = "dashing_sergeant"
+	file = "dashing_sergeant.ogg"
+	volume = 1
+}
+music = {
+	name = "derby_ram"
+	file = "derby_ram.ogg"
+	volume = 1
+}
+music = {
+	name = "drunken_sailor"
+	file = "drunken_sailor.ogg"
+	volume = 1
+}
+music = {
+	name = "early_morning"
+	file = "early_morning.ogg"
+	volume = 1
+}
+music = {
+	name = "eriskay_love"
+	file = "eriskay_love.ogg"
+	volume = 1
+}
+music = {
+	name = "hope_glory"
+	file = "hope_glory.ogg"
+	volume = 1
+}
+music = {
+	name = "hyd_nos"
+	file = "hyd_nos.ogg"
+	volume = 1
+}
+music = {
+	name = "john_barleycorn"
+	file = "john_barleycorn.ogg"
+	volume = 1
+}
+music = {
+	name = "land_fathers"
+	file = "land_fathers.ogg"
+	volume = 1
+}
+music = {
+	name = "llef_iesu"
+	file = "llef_iesu.ogg"
+	volume = 1
+}
+music = {
+	name = "pomp_circumstance"
+	file = "pomp_circumstance.ogg"
+	volume = 1
+}
+music = {
+	name = "quarter_deck"
+	file = "quarter_deck.ogg"
+	volume = 1
+}
+music = {
+	name = "rakes_mallow"
+	file = "rakes_mallow.ogg"
+	volume = 1
+}
+music = {
+	name = "rising_lark"
+	file = "rising_lark.ogg"
+	volume = 1
+}
+music = {
+	name = "sospan_fach"
+	file = "sospan_fach.ogg"
+	volume = 1
+}
+music = {
+	name = "spanish_ladies"
+	file = "spanish_ladies.ogg"
+	volume = 1
+}
+music = {
+	name = "standard_george"
+	file = "standard_george.ogg"
+	volume = 1
+}
+music = {
+	name = "water_wide"
+	file = "water_wide.ogg"
+	volume = 1
+}

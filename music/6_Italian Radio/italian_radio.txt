@@ -1,0 +1,1598 @@
+music_station = "italian_radio"
+
+### ITALIAN RADIO ###
+music = {
+	song = "quattro_maggio"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "a_tripoli"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "mia_bella"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "bandiera_rossa"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "bella_ciao"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "mezzo_mare"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "cicenerella"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "ciuri_ciuri"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "folgore_cielo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "facette_mammeta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "divina_patria"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "notte_pioveva"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "faccetta_nera"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "fiamme_nere"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "fischia_vento"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "flik_flok"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "funiculi_funicula"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "giovinezza"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "il_bersagliere"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "bersagliere_penne"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "canto_italiani"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "testamento_capitano"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "inno_oberdan"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "inno_roma"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "inno_virgo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "inno_sommergibilisti"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "inno_garibaldi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "lambasciatore"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "bandiere_colori"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "biondina_gondoleta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "calzone_grappa"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "la_carettiana"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "la_fedelissima"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "leggenda_piave"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "la_ritirata"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "sagra_giarabub"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "marcia_aeronautica"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "marcia_reale"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "marcia_trionfale"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "monte_pasubio"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "gorizia_maledetta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "sole_mio"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "surdato_nnamurato"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "parata_eroi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "parlami_mariu"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "mazzolin_fiori"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "cielo_capri"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "stornelli_mugellani"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "ponte_bassano"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "ta_pum"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tammurriata_nera"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "tarantella_napoletana"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "vecchio_scarpone"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "vincere_vincere"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "vitti_crozza"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = ITA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}

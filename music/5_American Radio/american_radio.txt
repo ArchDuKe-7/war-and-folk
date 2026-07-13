@@ -1,0 +1,2343 @@
+music_station = "american_radio"
+
+### AMERICA ###
+music = {
+	song = "field_music"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "american_patrol"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "american_paris"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "anchors_aweigh"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "battle_hymn"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "boogie_woogie"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "news_mother"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "bring_kaiser"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "columbia_gem"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "dear_pal"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "dixie"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "erie_canal"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "little_dogies"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "god_america"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "mr_zip"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "hail_chief"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "hail_columbia"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "happy_days"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "home_range"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "working_railroad"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "had_hammer"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "the_mood"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "invincible_eagle"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "john_henry"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "joe_wrangler"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "manhattan_beach"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "maple_leaf"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "marching_georgia"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "military_escort"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "moonlight_serenade"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "sweetheart_france"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "national_emblem"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "darling_clementine"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "oh_susanna"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "good_rebel"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "kentucky_home"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "oui_marie"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "over_there"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "red_river"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "rhapsody_blue"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "st_patrick"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "semper_fidelis"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "shenandoah"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "southern_soldier"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "star_spangled"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "stars_stripes"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "stonewall_jackson"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "strike_band"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "sweet_leilani"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "taps"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "tenting_campground"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "caisson_song"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "cry_freedom"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "candy_mountain"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "battle_orleans"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "black_horse"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "bonnie_blu"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "the_entertainer"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "fairest_fair"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "school_cadets"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "last_mile"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "liberty_bell"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "liberty_song"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "mariners_hymn"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "the_thunderer"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "blue_yonder"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "washington_post"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "your_land"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "union_dixie"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "wayfaring_stranger"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "johnny_comes"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "come_back"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "yankee_doodle"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "yellow_rose"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "my_sunshine"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 4.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.25
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "grand_flag"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}

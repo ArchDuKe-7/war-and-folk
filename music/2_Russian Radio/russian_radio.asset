@@ -1,0 +1,417 @@
+### RUSSIAN ###
+music = {
+	name = "92nd_pechora"
+	file = "92nd_pechora.ogg"
+	volume = 1
+}
+music = {
+	name = "airplanes"
+	file = "airplanes.ogg"
+	volume = 1
+}
+music = {
+	name = "always_sunshine"
+	file = "always_sunshine.ogg"
+	volume = 1
+}
+music = {
+	name = "army_navy"
+	file = "army_navy.ogg"
+	volume = 1
+}
+music = {
+	name = "artillerymen"
+	file = "artillerymen.ogg"
+	volume = 1
+}
+music = {
+	name = "battle_again"
+	file = "battle_again.ogg"
+	volume = 1
+}
+music = {
+	name = "beautiful_finland"
+	file = "beautiful_finland.ogg"
+	volume = 1
+}
+music = {
+	name = "blue_balloon"
+	file = "blue_balloon.ogg"
+	volume = 1
+}
+music = {
+	name = "bogdan_khmelnitsky"
+	file = "bogdan_khmelnitsky.ogg"
+	volume = 1
+}
+music = {
+	name = "borodinsky"
+	file = "borodinsky.ogg"
+	volume = 1
+}
+music = {
+	name = "brave_guys"
+	file = "brave_guys.ogg"
+	volume = 1
+}
+music = {
+	name = "budyonny"
+	file = "budyonny.ogg"
+	volume = 1
+}
+music = {
+	name = "cccp"
+	file = "cccp.ogg"
+	volume = 1
+}
+music = {
+	name = "central_steppes"
+	file = "central_steppes.ogg"
+	volume = 1
+}
+music = {
+	name = "cossack_song"
+	file = "cossack_song.ogg"
+	volume = 1
+}
+music = {
+	name = "crew_family"
+	file = "crew_family.ogg"
+	volume = 1
+}
+music = {
+	name = "dark_night"
+	file = "dark_night.ogg"
+	volume = 1
+}
+music = {
+	name = "defenders_moscow"
+	file = "defenders_moscow.ogg"
+	volume = 1
+}
+music = {
+	name = "doroga_berlin"
+	file = "doroga_berlin.ogg"
+	volume = 1
+}
+music = {
+	name = "dorogoy_dlinnoy"
+	file = "dorogoy_dlinnoy.ogg"
+	volume = 1
+}
+music = {
+	name = "dve_gitary"
+	file = "dve_gitary.ogg"
+	volume = 1
+}
+music = {
+	name = "enthusiasts"
+	file = "enthusiasts.ogg"
+	volume = 1
+}
+music = {
+	name = "far_away"
+	file = "far_away.ogg"
+	volume = 1
+}
+music = {
+	name = "farewell_slavianka"
+	file = "farewell_slavianka.ogg"
+	volume = 1
+}
+music = {
+	name = "fog_down"
+	file = "fog_down.ogg"
+	volume = 1
+}
+music = {
+	name = "girls_dancing"
+	file = "girls_dancing.ogg"
+	volume = 1
+}
+music = {
+	name = "god_tsar"
+	file = "god_tsar.ogg"
+	volume = 1
+}
+music = {
+	name = "going_ocean"
+	file = "going_ocean.ogg"
+	volume = 1
+}
+music = {
+	name = "hey_slavs"
+	file = "hey_slavs.ogg"
+	volume = 1
+}
+music = {
+	name = "hills_manchuria"
+	file = "hills_manchuria.ogg"
+	volume = 1
+}
+music = {
+	name = "homesickness"
+	file = "homesickness.ogg"
+	volume = 1
+}
+music = {
+	name = "june_4am"
+	file = "june_4am.ogg"
+	volume = 1
+}
+music = {
+	name = "kalinka"
+	file = "kalinka.ogg"
+	volume = 1
+}
+music = {
+	name = "katyusha"
+	file = "katyusha.ogg"
+	volume = 1
+}
+music = {
+	name = "kominternlied"
+	file = "kominternlied.ogg"
+	volume = 1
+}
+music = {
+	name = "komsomol"
+	file = "komsomol.ogg"
+	volume = 1
+}
+music = {
+	name = "lets_go"
+	file = "lets_go.ogg"
+	volume = 1
+}
+music = {
+	name = "life_better"
+	file = "life_better.ogg"
+	volume = 1
+}
+music = {
+	name = "live_tsar"
+	file = "live_tsar.ogg"
+	volume = 1
+}
+music = {
+	name = "marusechka"
+	file = "marusechka.ogg"
+	volume = 1
+}
+music = {
+	name = "memories"
+	file = "memories.ogg"
+	volume = 1
+}
+music = {
+	name = "noble_regiment"
+	file = "noble_regiment.ogg"
+	volume = 1
+}
+music = {
+	name = "officer_waltz"
+	file = "officer_waltz.ogg"
+	volume = 1
+}
+music = {
+	name = "oh_frost"
+	file = "oh_frost.ogg"
+	volume = 1
+}
+music = {
+	name = "our_regiment"
+	file = "our_regiment.ogg"
+	volume = 1
+}
+music = {
+	name = "our_yard"
+	file = "our_yard.ogg"
+	volume = 1
+}
+music = {
+	name = "partisans"
+	file = "partisans.ogg"
+	volume = 1
+}
+music = {
+	name = "peterskaia_street"
+	file = "peterskaia_street.ogg"
+	volume = 1
+}
+music = {
+	name = "song_plains"
+	file = "song_plains.ogg"
+	volume = 1
+}
+music = {
+	name = "preobrazhensky"
+	file = "preobrazhensky.ogg"
+	volume = 1
+}
+music = {
+	name = "red_strongest"
+	file = "red_strongest.ogg"
+	volume = 1
+}
+music = {
+	name = "reeds_rustling"
+	file = "reeds_rustling.ogg"
+	volume = 1
+}
+music = {
+	name = "rocky_mountains"
+	file = "rocky_mountains.ogg"
+	volume = 1
+}
+music = {
+	name = "sacred_war_wf"
+	file = "sacred_war.ogg"
+	volume = 1
+}
+music = {
+	name = "serdtse"
+	file = "serdtse.ogg"
+	volume = 1
+}
+music = {
+	name = "serve_russia"
+	file = "serve_russia.ogg"
+	volume = 1
+}
+music = {
+	name = "shchors"
+	file = "shchors.ogg"
+	volume = 1
+}
+music = {
+	name = "smuglianka"
+	file = "smuglianka.ogg"
+	volume = 1
+}
+music = {
+	name = "sunny_clearing"
+	file = "sunny_clearing.ogg"
+	volume = 1
+}
+music = {
+	name = "korobeiniki"
+	file = "korobeiniki.ogg"
+	volume = 1
+}
+music = {
+	name = "tommorow_war"
+	file = "tommorow_war.ogg"
+	volume = 1
+}
+music = {
+	name = "transbaikalia"
+	file = "transbaikalia.ogg"
+	volume = 1
+}
+music = {
+	name = "turks_swedes"
+	file = "turks_swedes.ogg"
+	volume = 1
+}
+music = {
+	name = "victory_day"
+	file = "victory_day.ogg"
+	volume = 1
+}
+music = {
+	name = "when_war"
+	file = "when_war.ogg"
+	volume = 1
+}
+music = {
+	name = "zhuravli"
+	file = "zhuravli.ogg"
+	volume = 1
+}
+### v1.1 ###
+music = {
+	name = "troika"
+	file = "troika.ogg"
+	volume = 1
+}
+music = {
+	name = "stariny_vals"
+	file = "stariny_vals.ogg"
+	volume = 1
+}
+music = {
+	name = "ukhar_kupyets"
+	file = "ukhar_kupyets.ogg"
+	volume = 1
+}
+music = {
+	name = "yablochko"
+	file = "yablochko.ogg"
+	volume = 1
+}
+music = {
+	name = "ey_ukhnem"
+	file = "ey_ukhnem.ogg"
+	volume = 1
+}
+music = {
+	name = "ochi_chornyye"
+	file = "ochi_chornyye.ogg"
+	volume = 1
+}
+music = {
+	name = "stenka_razine"
+	file = "stenka_razine.ogg"
+	volume = 1
+}
+music = {
+	name = "moldovenyaska"
+	file = "moldovenyaska.ogg"
+	volume = 1
+}
+music = {
+	name = "vecherny_zvon"
+	file = "vecherny_zvon.ogg"
+	volume = 1
+}
+music = {
+	name = "tonkaya_ryabina"
+	file = "tonkaya_ryabina.ogg"
+	volume = 1
+}
+music = {
+	name = "slavsya_glinka"
+	file = "slavsya_glinka.ogg"
+	volume = 1
+}
+music = {
+	name = "saratov_march"
+	file = "saratov_march.ogg"
+	volume = 1
+}
+music = {
+	name = "russian_eagle"
+	file = "russian_eagle.ogg"
+	volume = 1
+}
+music = {
+	name = "izmailovsky_march"
+	file = "izmailovsky_march.ogg"
+	volume = 1
+}
+music = {
+	name = "boris_godunov"
+	file = "boris_godunov.ogg"
+	volume = 1
+}
+music = {
+	name = "eugene_onegin"
+	file = "eugene_onegin.ogg"
+	volume = 1
+}
+music = {
+	name = "vas_lyubil"
+	file = "vas_lyubil.ogg"
+	volume = 1
+}

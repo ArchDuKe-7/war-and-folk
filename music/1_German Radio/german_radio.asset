@@ -1,0 +1,432 @@
+### DEUTSCHE ###
+music = {
+	name = "55_tage"
+	file = "55_tage.ogg"
+	volume = 1
+}
+music = {
+	name = "84er"
+	file = "84er_regimentsmarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "alte_kameraden"
+	file = "alte_kameraden.ogg"
+	volume = 1
+}
+music = {
+	name = "alter_jagermarsch"
+	file = "alter_jagermarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "argonnerwald"
+	file = "argonnerwald.ogg"
+	volume = 1
+}
+music = {
+	name = "auf_kreta"
+	file = "auf_kreta.ogg"
+	volume = 1
+}
+music = {
+	name = "badenweiler"
+	file = "badenweiler_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "bayerischer"
+	file = "bayerischer_defiliermarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "bergvagabunden"
+	file = "bergvagabunden.ogg"
+	volume = 1
+}
+music = {
+	name = "berliner_luft"
+	file = "berliner_luft.ogg"
+	volume = 1
+}
+music = {
+	name = "bismarck"
+	file = "bismarck_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "bord"
+	file = "heut_bord.ogg"
+	volume = 1
+}
+music = {
+	name = "bummtara"
+	file = "bummtara.ogg"
+	volume = 1
+}
+music = {
+	name = "edelweiss"
+	file = "edelweiss.ogg"
+	volume = 1
+}
+music = {
+	name = "erika"
+	file = "erika.ogg"
+	volume = 1
+}
+music = {
+	name = "erzherzog_albrecht"
+	file = "erzherzog_albrecht.ogg"
+	volume = 1
+}
+music = {
+	name = "eugen"
+	file = "prinz_eugen.ogg"
+	volume = 1
+}
+music = {
+	name = "faust"
+	file = "defiliermarsch_faust.ogg"
+	volume = 1
+}
+music = {
+	name = "fehrbelliner"
+	file = "fehrbelliner.ogg"
+	volume = 1
+}
+music = {
+	name = "fliegermarsch"
+	file = "fliegermarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "florentiner"
+	file = "florentiner.ogg"
+	volume = 1
+}
+music = {
+	name = "fridericus"
+	file = "fridericus_grenadiermarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "gedanken_frei"
+	file = "gedanken_frei.ogg"
+	volume = 1
+}
+music = {
+	name = "habsburg_hoch"
+	file = "habsburg_hoch.ogg"
+	volume = 1
+}
+music = {
+	name = "heidesburg"
+	file = "hock_heidesburg.ogg"
+	volume = 1
+}
+music = {
+	name = "heimat_wieder"
+	file = "heimat_wieder.ogg"
+	volume = 1
+}
+music = {
+	name = "helenen"
+	file = "helenenmarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "iustigen"
+	file = "iustigen_tage.ogg"
+	volume = 1
+}
+music = {
+	name = "jubelklange"
+	file = "jubelklange.ogg"
+	volume = 1
+}
+music = {
+	name = "kaiser_friedrich"
+	file = "kaiser_friedrich_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "kaiserjager"
+	file = "kaiserjager_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "kartner_lieder"
+	file = "kartner_lieder.ogg"
+	volume = 1
+}
+music = {
+	name = "kiel"
+	file = "gruss_an_kiel.ogg"
+	volume = 1
+}
+music = {
+	name = "kleine_elisabeth"
+	file = "kleine_elisabeth.ogg"
+	volume = 1
+}
+music = {
+	name = "kompanie"
+	file = "ganze_kompanie.ogg"
+	volume = 1
+}
+music = {
+	name = "koniggratzer"
+	file = "der_koniggratzer.ogg"
+	volume = 1
+}
+music = {
+	name = "krone_manoverball"
+	file = "krone_manoverball.ogg"
+	volume = 1
+}
+music = {
+	name = "kufsteiner_lied"
+	file = "kufsteiner_lied.ogg"
+	volume = 1
+}
+music = {
+	name = "lied"
+	file = "deutschlandlied.ogg"
+	volume = 1
+}
+music = {
+	name = "lili_marleen"
+	file = "lili_marleen.ogg"
+	volume = 1
+}
+music = {
+	name = "lilien"
+	file = "drei_lilien.ogg"
+	volume = 1
+}
+music = {
+	name = "lockmarsch"
+	file = "preussischer_lockmarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "machtigste_konig"
+	file = "machtigste_konig.ogg"
+	volume = 1
+}
+music = {
+	name = "madagaskar"
+	file = "madagaskar.ogg"
+	volume = 1
+}
+music = {
+	name = "madchen"
+	file = "madchen_aufstehn.ogg"
+	volume = 1
+}
+music = {
+	name = "markische_heide"
+	file = "markische_heide.ogg"
+	volume = 1
+}
+music = {
+	name = "marschieren"
+	file = "ww_marschieren.ogg"
+	volume = 1
+}
+music = {
+	name = "mein_osterreich"
+	file = "Mein_osterreich.ogg"
+	volume = 1
+}
+music = {
+	name = "nva_parade"
+	file = "parademarsch_nva.ogg"
+	volume = 1
+}
+music = {
+	name = "nva_strassen"
+	file = "strassenmarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "ohne_liebe"
+	file = "ohne_liebe.ogg"
+	volume = 1
+}
+music = {
+	name = "orients_beladen"
+	file = "orients_beladen.ogg"
+	volume = 1
+}
+music = {
+	name = "pappenheimer"
+	file = "der_pappenheimer.ogg"
+	volume = 1
+}
+music = {
+	name = "petersburger"
+	file = "petersburger_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "polenstadtchen"
+	file = "polenstadtchen.ogg"
+	volume = 1
+}
+music = {
+	name = "preussen"
+	file = "preussen_gloria.ogg"
+	volume = 1
+}
+music = {
+	name = "radetzkymarsch"
+	file = "radetzkymarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "regimentsgruss"
+	file = "regimentsgruss.ogg"
+	volume = 1
+}
+music = {
+	name = "reitet"
+	file = "todt_reitet.ogg"
+	volume = 1
+}
+music = {
+	name = "rosemarie"
+	file = "soldat_rosemarie.ogg"
+	volume = 1
+}
+music = {
+	name = "ruck_zuck"
+	file = "ruck_zuck.ogg"
+	volume = 1
+}
+music = {
+	name = "saarknappen"
+	file = "saarknappenmarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "schatz"
+	file = "schatz_ach_schatz.ogg"
+	volume = 1
+}
+music = {
+	name = "schifflein"
+	file = "schifflein_fahren.ogg"
+	volume = 1
+}
+music = {
+	name = "schonfeld"
+	file = "schonfeld_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "schwarzbraun"
+	file = "schwarzbraun.ogg"
+	volume = 1
+}
+music = {
+	name = "spazieren"
+	file = "einmal_spazieren.ogg"
+	volume = 1
+}
+music = {
+	name = "strassen_enden"
+	file = "strassen_enden.ogg"
+	volume = 1
+}
+music = {
+	name = "tirol_die_treue"
+	file = "tirol_die_treue.ogg"
+	volume = 1
+}
+music = {
+	name = "unsere_marine"
+	file = "unsere_marine.ogg"
+	volume = 1
+}
+music = {
+	name = "unter_doppeladler"
+	file = "unter_doppeladler.ogg"
+	volume = 1
+}
+music = {
+	name = "vaterland"
+	file = "deutschen_vaterland.ogg"
+	volume = 1
+}
+music = {
+	name = "wenn_die_soldaten"
+	file = "wenn_die_soldaten.ogg"
+	volume = 1
+}
+music = {
+	name = "zum_kampf"
+	file = "auf_auf_zum_kampf.ogg"
+	volume = 1
+}
+### v1.1 ###
+music = {
+	name = "arbeiter_wien"
+	file = "arbeiter_wien.ogg"
+	volume = 1
+}
+music = {
+	name = "auferstanden_ruinen"
+	file = "auferstanden_ruinen.ogg"
+	volume = 1
+}
+music = {
+	name = "jager_kurpfalz"
+	file = "jager_kurpfalz.ogg"
+	volume = 1
+}
+music = {
+	name = "burg_gott"
+	file = "burg_gott.ogg"
+	volume = 1
+}
+music = {
+	name = "heckerlied"
+	file = "heckerlied.ogg"
+	volume = 1
+}
+music = {
+	name = "funkerlied"
+	file = "funkerlied.ogg"
+	volume = 1
+}
+music = {
+	name = "liebchen_ade"
+	file = "liebchen_ade.ogg"
+	volume = 1
+}
+music = {
+	name = "muss_denn"
+	file = "muss_denn.ogg"
+	volume = 1
+}
+music = {
+	name = "o_tannenbaum"
+	file = "o_tannenbaum.ogg"
+	volume = 1
+}
+music = {
+	name = "rosamunde"
+	file = "rosamunde.ogg"
+	volume = 1
+}
+music = {
+	name = "liebe_fraue"
+	file = "liebe_fraue.ogg"
+	volume = 1
+}
+music = {
+	name = "blaue_meer"
+	file = "blaue_meer.ogg"
+	volume = 1
+}

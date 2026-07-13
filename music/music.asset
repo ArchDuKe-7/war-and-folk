@@ -1,0 +1,5 @@
+music = {
+	name = "maintheme"
+	file = "japanese_medley.ogg"
+	volume = 0.25
+}

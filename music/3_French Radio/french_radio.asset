@@ -1,0 +1,402 @@
+### FRENCH ###
+music = {
+	name = "2eme"
+	file = "2eme.ogg"
+	volume = 1
+}
+music = {
+	name = "23eme_rima"
+	file = "23eme_rima.ogg"
+	volume = 1
+}
+music = {
+	name = "500_soldats"
+	file = "500_soldats.ogg"
+	volume = 1
+}
+music = {
+	name = "adieu_europe"
+	file = "adieu_europe.ogg"
+	volume = 1
+}
+music = {
+	name = "aigles_triomphales"
+	file = "aigles_triomphales.ogg"
+	volume = 1
+}
+music = {
+	name = "anne_marie"
+	file = "anne_marie.ogg"
+	volume = 1
+}
+music = {
+	name = "aupres_blonde"
+	file = "aupres_blonde.ogg"
+	volume = 1
+}
+music = {
+	name = "aux_champs"
+	file = "aux_champs.ogg"
+	volume = 1
+}
+music = {
+	name = "bonnets_poils"
+	file = "bonnets_poils.ogg"
+	volume = 1
+}
+music = {
+	name = "cadence_cullotes"
+	file = "cadence_cullotes.ogg"
+	volume = 1
+}
+music = {
+	name = "carmagnole_ira"
+	file = "carmagnole_ira.ogg"
+	volume = 1
+}
+music = {
+	name = "ceremonie_turcs"
+	file = "ceremonie_turcs.ogg"
+	volume = 1
+}
+music = {
+	name = "champ_dhonneur"
+	file = "champ_dhonneur.ogg"
+	volume = 1
+}
+music = {
+	name = "chanson_oignon"
+	file = "chanson_oignon.ogg"
+	volume = 1
+}
+music = {
+	name = "chant_africains"
+	file = "chant_africains.ogg"
+	volume = 1
+}
+music = {
+	name = "chant_depart"
+	file = "chant_depart.ogg"
+	volume = 1
+}
+music = {
+	name = "chant_partisans"
+	file = "chant_partisans.ogg"
+	volume = 1
+}
+music = {
+	name = "charge_grenadiers"
+	file = "charge_grenadiers.ogg"
+	volume = 1
+}
+music = {
+	name = "chevalier"
+	file = "chevalier.ogg"
+	volume = 1
+}
+music = {
+	name = "drapeau_dausterlitz"
+	file = "drapeau_dausterlitz.ogg"
+	volume = 1
+}
+music = {
+	name = "fanion_legion"
+	file = "fanion_legion.ogg"
+	volume = 1
+}
+music = {
+	name = "fille_regiment"
+	file = "fille_regiment.ogg"
+	volume = 1
+}
+music = {
+	name = "funebre"
+	file = "funebre.ogg"
+	volume = 1
+}
+music = {
+	name = "garde_consulaire"
+	file = "garde_consulaire.ogg"
+	volume = 1
+}
+music = {
+	name = "grenadier_caucase"
+	file = "grenadier_caucase.ogg"
+	volume = 1
+}
+music = {
+	name = "grenadiers_waterloo"
+	file = "grenadiers_waterloo.ogg"
+	volume = 1
+}
+music = {
+	name = "hussards"
+	file = "hussards.ogg"
+	volume = 1
+}
+music = {
+	name = "ils_pas"
+	file = "ils_pas.ogg"
+	volume = 1
+}
+music = {
+	name = "la_boudin"
+	file = "la_boudin.ogg"
+	volume = 1
+}
+music = {
+	name = "la_grenadiere"
+	file = "la_grenadiere.ogg"
+	volume = 1
+}
+music = {
+	name = "le_caid"
+	file = "le_caid.ogg"
+	volume = 1
+}
+music = {
+	name = "lorraine"
+	file = "lorraine.ogg"
+	volume = 1
+}
+music = {
+	name = "louis_xvi"
+	file = "louis_xvi.ogg"
+	volume = 1
+}
+music = {
+	name = "malbrough_guerre"
+	file = "malbrough_guerre.ogg"
+	volume = 1
+}
+music = {
+	name = "marche_27e"
+	file = "marche_27e.ogg"
+	volume = 1
+}
+music = {
+	name = "marche_couronnement"
+	file = "marche_couronnement.ogg"
+	volume = 1
+}
+music = {
+	name = "marche_dausterlitz"
+	file = "marche_dausterlitz.ogg"
+	volume = 1
+}
+music = {
+	name = "marche_marsouins"
+	file = "marche_marsouins.ogg"
+	volume = 1
+}
+music = {
+	name = "marche_tirailleurs"
+	file = "marche_tirailleurs.ogg"
+	volume = 1
+}
+music = {
+	name = "marechal_dassary"
+	file = "marechal_dassary.ogg"
+	volume = 1
+}
+music = {
+	name = "marseillaise"
+	file = "marseillaise.ogg"
+	volume = 1
+}
+music = {
+	name = "michel_strogoff"
+	file = "michel_strogoff.ogg"
+	volume = 1
+}
+music = {
+	name = "mousquetaires_roy"
+	file = "mousquetaires_roy.ogg"
+	volume = 1
+}
+music = {
+	name = "oratorio_princes"
+	file = "oratorio_princes.ogg"
+	volume = 1
+}
+music = {
+	name = "partant_syrie"
+	file = "partant_syrie.ogg"
+	volume = 1
+}
+music = {
+	name = "pas_accelere"
+	file = "pas_accelere.ogg"
+	volume = 1
+}
+music = {
+	name = "pere_victoire"
+	file = "pere_victoire.ogg"
+	volume = 1
+}
+music = {
+	name = "pour_lempereur"
+	file = "pour_lempereur.ogg"
+	volume = 1
+}
+music = {
+	name = "quand_madelon"
+	file = "quand_madelon.ogg"
+	volume = 1
+}
+music = {
+	name = "redouble_imperiale"
+	file = "redouble_imperiale.ogg"
+	volume = 1
+}
+music = {
+	name = "reve_passe"
+	file = "reve_passe.ogg"
+	volume = 1
+}
+music = {
+	name = "reveillez_picards"
+	file = "reveillez_picards.ogg"
+	volume = 1
+}
+music = {
+	name = "rigodon_dhonneur"
+	file = "rigodon_dhonneur.ogg"
+	volume = 1
+}
+music = {
+	name = "robert_bruce"
+	file = "robert_bruce.ogg"
+	volume = 1
+}
+music = {
+	name = "saint_cyr"
+	file = "saint_cyr.ogg"
+	volume = 1
+}
+music = {
+	name = "salut_aigles"
+	file = "salut_aigles.ogg"
+	volume = 1
+}
+music = {
+	name = "sarie_mares"
+	file = "sarie_mares.ogg"
+	volume = 1
+}
+music = {
+	name = "strasbourgeoise"
+	file = "strasbourgeoise.ogg"
+	volume = 1
+}
+music = {
+	name = "veillons_empire"
+	file = "veillons_empire.ogg"
+	volume = 1
+}
+music = {
+	name = "verdun"
+	file = "verdun.ogg"
+	volume = 1
+}
+music = {
+	name = "victoire_nous"
+	file = "victoire_nous.ogg"
+	volume = 1
+}
+music = {
+	name = "vive_henry"
+	file = "vive_henry.ogg"
+	volume = 1
+}
+### v1.1 ###
+music = {
+	name = "claire_fontaine"
+	file = "claire_fontaine.ogg"
+	volume = 1
+}
+music = {
+	name = "azerty"
+	file = "azerty.ogg"
+	volume = 1
+}
+music = {
+	name = "cadet_rousselle"
+	file = "cadet_rousselle.ogg"
+	volume = 1
+}
+music = {
+	name = "monsieur_henri"
+	file = "monsieur_henri.ogg"
+	volume = 1
+}
+music = {
+	name = "chevaliers_ronde"
+	file = "chevaliers_ronde.ogg"
+	volume = 1
+}
+music = {
+	name = "criniere_vent"
+	file = "criniere_vent.ogg"
+	volume = 1
+}
+music = {
+	name = "danse_macabre"
+	file = "danse_macabre.ogg"
+	volume = 1
+}
+music = {
+	name = "fanchon"
+	file = "fanchon.ogg"
+	volume = 1
+}
+music = {
+	name = "garcon_barre"
+	file = "garcon_barre.ogg"
+	volume = 1
+}
+music = {
+	name = "joli_tambour"
+	file = "joli_tambour.ogg"
+	volume = 1
+}
+music = {
+	name = "la_temeraire"
+	file = "la_temeraire.ogg"
+	volume = 1
+}
+music = {
+	name = "roi_dagobert"
+	file = "roi_dagobert.ogg"
+	volume = 1
+}
+music = {
+	name = "le_carillonneur"
+	file = "le_carillonneur.ogg"
+	volume = 1
+}
+music = {
+	name = "temps_cerises"
+	file = "temps_cerises.ogg"
+	volume = 1
+}
+music = {
+	name = "marche_zouaves"
+	file = "marche_zouaves.ogg"
+	volume = 1
+}
+music = {
+	name = "militaire_fa"
+	file = "militaire_fa.ogg"
+	volume = 1
+}
+music = {
+	name = "pelot_hennebont"
+	file = "pelot_hennebont.ogg"
+	volume = 1
+}
+music = {
+	name = "pont_avignon"
+	file = "pont_avignon.ogg"
+	volume = 1
+}
