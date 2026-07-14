@@ -4,8 +4,8 @@ War & Folk is a Hearts of Iron IV mod that brings you the best mix of military m
 
 Make sure to follow this page if you are interested in the mod's development. I will be posting updates here before they reach the Workshop.
 
-You may clone or use any part of the mod. No need for credit :)
+You may fork or use any part of the mod. No need for credit :)
 
-If you have any questions or suggestions, feel free to reach out at  https://steamcommunity.com/id/dS0_
+If you have any questions or suggestions, feel free to reach out  [HERE](https://steamcommunity.com/id/dS0_)
 
-Workshop Page: https://steamcommunity.com/sharedfiles/filedetails/?id=3759644027
+[WORKSHOP PAGE](https://steamcommunity.com/sharedfiles/filedetails/?id=3759644027)
