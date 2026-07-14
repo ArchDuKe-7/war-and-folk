@@ -1,5 +1,4 @@
 music_station = "american_radio"
-
 ### AMERICA ###
 music = {
 	song = "field_music"

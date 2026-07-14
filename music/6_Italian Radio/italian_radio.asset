@@ -1,4 +1,5 @@
-### ITALIAN ###
+### ITALIA ###
+### v1.0 ###
 music = {
 	name = "a_tripoli"
 	file = "a_tripoli.ogg"
@@ -30,8 +31,8 @@ music = {
 	volume = 1
 }
 music = {
-	name = "calzone_grappa"
-	file = "calzone_grappa.ogg"
+	name = "canzone_grappa"
+	file = "canzone_grappa.ogg"
 	volume = 1
 }
 music = {
@@ -272,5 +273,76 @@ music = {
 music = {
 	name = "vitti_crozza"
 	file = "vitti_crozza.ogg"
+	volume = 1
+}
+### v1.1 ###
+music = {
+	name = "societa_magnaccioni"
+	file = "societa_magnaccioni.ogg"
+	volume = 1
+}
+music = {
+	name = "mazurka_ciapa"
+	file = "mazurka_ciapa.ogg"
+	volume = 1
+}
+music = {
+	name = "romagna_mia"
+	file = "romagna_mia.ogg"
+	volume = 1
+}
+music = {
+	name = "torna_surriento"
+	file = "torna_surriento.ogg"
+	volume = 1
+}
+music = {
+	name = "santa_lucia"
+	file = "santa_lucia.ogg"
+	volume = 1
+}
+music = {
+	name = "pieta_morta"
+	file = "pieta_morta.ogg"
+	volume = 1
+}
+music = {
+	name = "campana_giusto"
+	file = "campana_giusto.ogg"
+	volume = 1
+}
+music = {
+	name = "fischia_sasso"
+	file = "fischia_sasso.ogg"
+	volume = 1
+}
+music = {
+	name = "signore_cime"
+	file = "signore_cime.ogg"
+	volume = 1
+}
+music = {
+	name = "lu_sceccu"
+	file = "lu_sceccu.ogg"
+	volume = 1
+}
+music = {
+	name = "vitti_funtana"
+	file = "vitti_funtana.ogg"
+	volume = 1
+}
+music = {
+	name = "canzone_ciuccio"
+	file = "canzone_ciuccio.ogg"
+	volume = 1
+}
+music = {
+	name = "stornelli_legionari"
+	file = "stornelli_legionari.ogg"
+	volume = 1
+}
+music = {
+	name = "papa_andato"
+	file = "papa_andato.ogg"
 	volume = 1
 }

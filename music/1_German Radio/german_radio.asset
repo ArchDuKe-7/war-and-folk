@@ -1,4 +1,11 @@
 ### DEUTSCHE ###
+## YOUR SUGGESTIONS ##
+music = {
+	name = "grunen_walde" # Thanks huzar :D
+	file = "grunen_walde.ogg"
+	volume = 1
+}
+### v1.0 ###
 music = {
 	name = "55_tage"
 	file = "55_tage.ogg"
