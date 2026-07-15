@@ -1,5 +1,4 @@
 music_station = "german_radio"
-
 ### DEUTSCHLAND ###
 music = {
 	song = "55_tage"
@@ -432,6 +431,35 @@ music = {
 	}
 }
 music = {
+	song = "kufsteiner_lied"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "faust"
 	chance = {
 		base = 1.0
@@ -701,6 +729,35 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
+		}
+	}
+}
+music = {
+	song = "gedanken_frei"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
 		}
 	}
 }
@@ -1118,35 +1175,6 @@ music = {
 	}
 }
 music = {
-	song = "gedanken_frei"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
 	song = "kiel"
 	chance = {
 		base = 1.0
@@ -1359,6 +1387,64 @@ music = {
 }
 music = {
 	song = "spazieren"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "grunen_walde"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "krone_manoverball"
 	chance = {
 		base = 1.0
 		modifier = {
@@ -1623,64 +1709,6 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
-		}
-	}
-}
-music = {
-	song = "krone_manoverball"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "kufsteiner_lied"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
 		}
 	}
 }
