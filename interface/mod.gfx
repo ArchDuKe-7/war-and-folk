@@ -29,6 +29,21 @@ spriteTypes = {
 		textureFile = "gfx//interface//topbar//musicplayer//italian_radio.dds"
 		noOfFrames = 2
 	}
+	spriteType = {
+		name = "GFX_japanese_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//japanese_radio.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_polish_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//polish_radio.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_romanian_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//romanian_radio.dds"
+		noOfFrames = 2
+	}
     spriteType = {
 		name = "GFX_rotw_radio"
 		textureFile = "gfx//interface//topbar//musicplayer//rotw_radio.dds"

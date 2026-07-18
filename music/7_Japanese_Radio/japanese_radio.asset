@@ -1,0 +1,7 @@
+### JAPANESE ###
+# v1.2
+music = {
+	name = "battotai"
+	file = "battotai.ogg"
+	volume = 1
+}
