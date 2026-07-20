@@ -1,3 +1,5 @@
+music_station = "classic"
+
 music = {
 	song = "maintheme"
 	chance = {
