@@ -1,6 +1,39 @@
 music_station = "american_radio"
 ### AMERICA ###
 music = {
+	song = "star_spangled"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = USA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "field_music"
 	chance = {
 		base = 1.0
@@ -1345,39 +1378,6 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
-		}
-	}
-}
-music = {
-	song = "star_spangled"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = USA
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = USA
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = USA
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_government = democratic
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
 		}
 	}
 }

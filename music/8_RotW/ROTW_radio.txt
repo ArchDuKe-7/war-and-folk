@@ -1,6 +1,35 @@
 music_station = "rotw_radio"
 ###  GREECE ###
 music = {
+	song = "ethnikos_ymnos"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = GRE
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = GRE
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = GRE
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "agni_parthene"
 	chance = {
 		base = 1.0
@@ -229,35 +258,6 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
-		}
-	}
-}
-music = {
-	song = "ethnikos_ymnos"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = GRE
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = GRE
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = GRE
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
 		}
 	}
 }
@@ -1075,6 +1075,35 @@ music = {
 }
 ###  TURKEY ###
 music = {
+	song = "istiklal_marsi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = TUR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = TUR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = TUR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "anafartalar_marsi"
 	chance = {
 		base = 1.0
@@ -1506,35 +1535,6 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
-		}
-	}
-}
-music = {
-	song = "istiklal_marsi"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = TUR
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = TUR
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = TUR
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
 		}
 	}
 }
@@ -2032,6 +2032,48 @@ music = {
 	}
 }
 music = {
+	song = "eika_veljeksia"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "eldankajarven_jaa"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "hoxha_tungjatjeta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "fejervary_marsch"
 	chance = {
 		base = 1.0
@@ -2130,6 +2172,34 @@ music = {
 	}
 }
 music = {
+	song = "lule_malesore"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "jaa_isanmaa"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
 	song = "magyer_indulo"
 	chance = {
 		base = 1.0
@@ -2145,20 +2215,6 @@ music = {
 }
 music = {
 	song = "bulgarian_people"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 2.0
-			has_war = yes
-		}
-		modifier = {
-			factor = 0.5
-			has_war = no
-		}
-	}
-}
-music = {
-	song = "old_chasseurs"
 	chance = {
 		base = 1.0
 		modifier = {
@@ -2200,7 +2256,63 @@ music = {
 	}
 }
 music = {
+	song = "marshi_uck"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "old_chasseurs"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
 	song = "roxanne_montenegro"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "rritu_nenes"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "sakkijarven_polkka"
 	chance = {
 		base = 1.0
 		modifier = {
@@ -2266,6 +2378,20 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
+		}
+	}
+}
+music = {
+	song = "voc"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
 		}
 	}
 }

@@ -1,6 +1,35 @@
 music_station = "german_radio"
 ### DEUTSCHLAND ###
 music = {
+	song = "lied"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = GER
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "55_tage"
 	chance = {
 		base = 1.0
@@ -667,35 +696,6 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
-		}
-	}
-}
-music = {
-	song = "lied"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = GER
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
 		}
 	}
 }

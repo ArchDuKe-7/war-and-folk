@@ -1,6 +1,39 @@
 music_station = "french_radio"
 ### FRANCE ###
 music = {
+	song = "marseillaise"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = FRA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = FRA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = FRA
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "claire_fontaine"
 	chance = {
 		base = 1.0
@@ -787,39 +820,6 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
-		}
-	}
-}
-music = {
-	song = "marseillaise"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = FRA
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = FRA
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = FRA
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_government = democratic
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
 		}
 	}
 }

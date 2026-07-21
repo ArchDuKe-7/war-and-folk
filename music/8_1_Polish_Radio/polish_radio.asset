@@ -1,5 +1,5 @@
 ### POLISH ###
-# v1.0
+# v1.0 #
 music = {
 	name = "biale_roze"
 	file = "POL_biale_roze.ogg"
@@ -223,5 +223,56 @@ music = {
 music = {
 	name = "zielonym_gaju"
 	file = "POL_zielonym_gaju.ogg"
+	volume = 1
+}
+# v1.2 #
+music = {
+	name = "morze_morze"
+	file = "POL_morze_morze.ogg"
+	volume = 1
+}
+music = {
+	name = "hej_bron"
+	file = "POL_hej_bron.ogg"
+	volume = 1
+}
+music = {
+	name = "deszcz_deszcz"
+	file = "POL_deszcz_deszcz.ogg"
+	volume = 1
+}
+music = {
+	name = "oka"
+	file = "POL_oka.ogg"
+	volume = 1
+}
+music = {
+	name = "marsz_mokotowa"
+	file = "POL_marsz_mokotowa.ogg"
+	volume = 1
+}
+music = {
+	name = "dzis_moge"
+	file = "POL_dzis_moge.ogg"
+	volume = 1
+}
+music = {
+	name = "boze_polske"
+	file = "POL_boze_polske.ogg"
+	volume = 1
+}
+music = {
+	name = "sanitariuszka_malgorzatka"
+	file = "POL_sanitariuszka_malgorzatka.ogg"
+	volume = 1
+}
+music = {
+	name = "spalonych_wsi"
+	file = "POL_spalonych_wsi.ogg"
+	volume = 1
+}
+music = {
+	name = "idzie_zolnierz"
+	file = "POL_idzie_zolnierz.ogg"
 	volume = 1
 }

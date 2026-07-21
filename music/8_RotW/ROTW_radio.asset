@@ -441,3 +441,49 @@ music = {
 	file = "ROTW_vojvode_stepanovica.ogg"
 	volume = 1
 }
+# v1.2 #
+music = {
+	name = "hoxha_tungjatjeta"
+	file = "ROTW_hoxha_tungjatjeta.ogg"
+	volume = 1
+}
+music = {
+	name = "marshi_uck"
+	file = "ROTW_marshi_uck.ogg"
+	volume = 1
+}
+music = {
+	name = "rritu_nenes"
+	file = "ROTW_rritu_nenes.ogg"
+	volume = 1
+}
+music = {
+	name = "lule_malesore"
+	file = "ROTW_lule_malesore.ogg"
+	volume = 1
+}
+music = {
+	name = "voc"
+	file = "ROTW_voc.ogg"
+	volume = 1
+}
+music = {
+	name = "eldankajarven_jaa"
+	file = "ROTW_eldankajarven_jaa.ogg"
+	volume = 1
+}
+music = {
+	name = "sakkijarven_polkka"
+	file = "ROTW_sakkijarven_polkka.ogg"
+	volume = 1
+}
+music = {
+	name = "eika_veljeksia"
+	file = "ROTW_eika_veljeksia.ogg"
+	volume = 1
+}
+music = {
+	name = "jaa_isanmaa"
+	file = "ROTW_jaa_isanmaa.ogg"
+	volume = 1
+}

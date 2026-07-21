@@ -1,6 +1,35 @@
 music_station = "polish_radio"
 ### POLAND ###
 music = {
+	song = "mazurek_dabrowskiego"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
 	song = "biale_roze"
 	chance = {
 		base = 1.0
@@ -59,6 +88,64 @@ music = {
 	}
 }
 music = {
+	song = "boze_polske"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "bystra_woda"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "jak_stal"
 	chance = {
 		base = 1.0
@@ -88,7 +175,123 @@ music = {
 	}
 }
 music = {
+	song = "czergone_jagody"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "monte_cassino"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "czerwony_pas"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "deszcz_deszcz"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "dzis_moge"
 	chance = {
 		base = 1.0
 		modifier = {
@@ -146,6 +349,122 @@ music = {
 	}
 }
 music = {
+	song = "gaude_mater"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "goralu_zal"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "hej_bron"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "hej_sokoly"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "hej_ulani"
 	chance = {
 		base = 1.0
@@ -175,6 +494,64 @@ music = {
 	}
 }
 music = {
+	song = "idzie_zolnierz"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kukuleckza"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "leguny_niebie"
 	chance = {
 		base = 1.0
@@ -200,6 +577,35 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
+		}
+	}
+}
+music = {
+	song = "lipka"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
 		}
 	}
 }
@@ -291,6 +697,35 @@ music = {
 	}
 }
 music = {
+	song = "marsz_mokotowa"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
 	song = "marsz_polonii"
 	chance = {
 		base = 1.0
@@ -349,7 +784,65 @@ music = {
 	}
 }
 music = {
-	song = "mazurek_dabrowskiego"
+	song = "morze_morze"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "spalonych_wsi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "pierwsza_brygada"
 	chance = {
 		base = 1.0
 		modifier = {
@@ -407,7 +900,94 @@ music = {
 	}
 }
 music = {
+	song = "rozmarynie"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
 	song = "odwach"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "ojczyzna"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "oka"
 	chance = {
 		base = 1.0
 		modifier = {
@@ -494,7 +1074,7 @@ music = {
 	}
 }
 music = {
-	song = "pierwsza_brygada"
+	song = "przasnickza"
 	chance = {
 		base = 1.0
 		modifier = {
@@ -514,11 +1094,11 @@ music = {
 		}
 		modifier = {
 			factor = 2.0
-			has_war = yes
+			has_war = no
 		}
 		modifier = {
 			factor = 0.5
-			has_war = no
+			has_war = yes
 		}
 	}
 }
@@ -581,7 +1161,36 @@ music = {
 	}
 }
 music = {
-	song = "rozmarynie"
+	song = "wierzby_placzace"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "sanitariuszka_malgorzatka"
 	chance = {
 		base = 1.0
 		modifier = {
@@ -668,6 +1277,64 @@ music = {
 	}
 }
 music = {
+	song = "smagly"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "szla_dzieweckza"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "szwolezerowie"
 	chance = {
 		base = 1.0
@@ -693,6 +1360,122 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
+		}
+	}
+}
+music = {
+	song = "swidryga_midryga"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "to_hola"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "moim_ogrodecku"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "zielonym_gaju"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POL
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
 		}
 	}
 }
@@ -755,35 +1538,6 @@ music = {
 	}
 }
 music = {
-	song = "wierzby_placzace"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = yes
-		}
-		modifier = {
-			factor = 0.5
-			has_war = no
-		}
-	}
-}
-music = {
 	song = "wojenko_wojenko"
 	chance = {
 		base = 1.0
@@ -813,471 +1567,7 @@ music = {
 	}
 }
 music = {
-	song = "bystra_woda"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "czergone_jagody"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "czerwony_pas"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "gaude_mater"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "goralu_zal"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "hej_sokoly"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "kukuleckza"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "lipka"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "moim_ogrodecku"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "ojczyzna"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "przasnickza"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "smagly"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "swidryga_midryga"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "szla_dzieweckza"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "to_hola"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
 	song = "zasiali_gorale"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = POL
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
-		}
-	}
-}
-music = {
-	song = "zielonym_gaju"
 	chance = {
 		base = 1.0
 		modifier = {

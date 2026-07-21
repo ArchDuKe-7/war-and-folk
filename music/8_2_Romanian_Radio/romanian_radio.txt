@@ -1,6 +1,35 @@
 music_station = "romanian_radio"
 ### ROMANIA ###
 music = {
+	song = "desteaptate_romane"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = ROM
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ROM
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = ROM
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
 	song = "amintire_haiduci"
 	chance = {
 		base = 1.0
@@ -461,35 +490,6 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = yes
-		}
-	}
-}
-music = {
-	song = "desteaptate_romane"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = ROM
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = ROM
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = ROM
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = yes
-		}
-		modifier = {
-			factor = 0.5
-			has_war = no
 		}
 	}
 }

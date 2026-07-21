@@ -1,6 +1,43 @@
 music_station = "british_radio"
 ### BRITAIN ###
 music = {
+	song = "god_save"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = ENG
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = ENG
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = ENG
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "amazing_grace"
 	chance = {
 		base = 1.0
@@ -460,43 +497,6 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
-		}
-	}
-}
-music = {
-	song = "god_save"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = ENG
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = ENG
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = ENG
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_government = democratic
-		}
-		modifier = {
-			factor = 2.0
-			has_government = neutrality
-		}
-		modifier = {
-			factor = 2.0
-			has_war = no
-		}
-		modifier = {
-			factor = 0.5
-			has_war = yes
 		}
 	}
 }
