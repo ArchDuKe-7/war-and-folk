@@ -1,0 +1,2609 @@
+music_station = "russian_radio"
+### Россия ###
+music = {
+	song = "cccp"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "peterskaia_street"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "our_yard"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "battle_again"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "army_navy"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "bogdan_khmelnitsky"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "boris_godunov"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "borodinsky"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "dorogoy_dlinnoy"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "transbaikalia"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "cossack_song"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "zhuravli"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "ochi_chornyye"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "dark_night"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "eugene_onegin"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "vecherny_zvon"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "farewell_slavianka"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "rocky_mountains"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0 
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "airplanes"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "girls_dancing"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "god_tsar"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "beautiful_finland"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "serdtse"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "hey_slavs"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "homesickness"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "vas_lyubil"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "tommorow_war"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "central_steppes"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "sunny_clearing"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "kalinka"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "katyusha"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kominternlied"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "komsomol"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "korobeiniki"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "lets_go"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0 
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "life_better"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "yablochko"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "memories"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "saratov_march"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "92nd_pechora"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "artillerymen"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "defenders_moscow"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "enthusiasts"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "izmailovsky_march"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "always_sunshine"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "live_tsar"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0 
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "moldovenyaska"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "marusechka"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "officer_waltz"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "oh_frost"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "june_4am"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "hills_manchuria"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "our_regiment"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "partisans"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "preobrazhensky"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "reeds_rustling"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "doroga_berlin"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "russian_eagle"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "slavsya_glinka"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "stariny_vals"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "smuglianka"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "brave_guys"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "far_away"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "shchors"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "noble_regiment"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "song_plains"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "stenka_razine"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "crew_family"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "ukhar_kupyets"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "fog_down"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "blue_balloon"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "red_strongest"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "budyonny"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "sacred_war_wf"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tonkaya_ryabina"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "ey_ukhnem"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "serve_russia"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "troika"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "dve_gitary"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "victory_day"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "turks_swedes"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "going_ocean"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "when_war"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SOV
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}

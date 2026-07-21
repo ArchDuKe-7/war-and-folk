@@ -1,0 +1,2235 @@
+music_station = "japanese_radio"
+### JAPAN ###
+music = {
+	song = "kimigayo_koshinkyoku"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "ageyo_hinomaru"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "aikoku_koshinkyoku"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "aizu_bandaisan"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "aka_tombo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "amerika_bakugeki"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "arawashi_uta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "asadoya_yunta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "banzai_hitora"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "nihonkai_kaisen"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "battleship_shikishima"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "battotai"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "beiei_gekimetsu"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "big_sky"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "byakkotai"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "chichiyo_anata"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "chikaradzuku_aija"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "chiyoda_castle"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "chizome_no_denrei"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "dai_koku"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "bon_hokkaido"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "dato_beiei"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "eirei_sanka"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "ezashi_oiwake"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "furusato"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "getsu_kin"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "gochin"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "godan_kinuta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "gunkan_koshinkyoku"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "hanagasa_ondo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "hawai_daikaisen"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "indo_sakusen"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "itsuki_komori"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kachidoki_uta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kagoshima_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kaigara_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kakute_kamikaze"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kanetsushiki_koshinkyoku"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kato_hayabusa"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kiji_uta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kogun_nyujo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kokiriko_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kuroda_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "kushimoto_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "march_sun"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "nagasaki_ochosan"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "naniwa_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "nippon_rikugun"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "oedo_nihonbashi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "otemoyan"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "rabauru_kaigun"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "roei_uta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "rokudan"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "sado_okesa"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "sakura_sakura"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "senyu"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "shinjo_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "showa_ishin"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "shussei_okoru"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "soran_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "soushunfu"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "taiatari_seishin"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tairiku_koshinkyoku"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tairyou_utaikomi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "taisei_yokusan"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tanko_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "teki_ikuman"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "great_japan"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "togetari_kamikaze"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tohiko"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tokyo_koshinkyoku"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tokyo_ondo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tsubasa_kudasai"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "wakakoma_koshinkyoku"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "warera_guntai"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "yagi_bushi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "yokaren_uta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = JAP
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}

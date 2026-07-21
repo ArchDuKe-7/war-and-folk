@@ -1,5 +1,5 @@
 music = {
 	name = "maintheme"
-	file = "japanese_medley.ogg"
+	file = "das_ist_berlin_theme.ogg"
 	volume = 0.25
 }

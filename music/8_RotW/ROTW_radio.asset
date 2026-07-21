@@ -1,0 +1,489 @@
+### GREEK ###
+music = {
+	name = "aetos_kathotane"
+	file = "GRE_aetos_kathotane.ogg"
+	volume = 1
+}
+music = {
+	name = "agni_parthene"
+	file = "GRE_agni_parthene.ogg"
+	volume = 1
+}
+music = {
+	name = "ballaristos_patmou"
+	file = "GRE_ballaristos_patmou.ogg"
+	volume = 1
+}
+music = {
+	name = "ellada_petheni"
+	file = "GRE_ellada_petheni.ogg"
+	volume = 1
+}
+music = {
+	name = "ellinas_stratiotis"
+	file = "GRE_ellinas_stratiotis.ogg"
+	volume = 1
+}
+music = {
+	name = "emvatirio_ippikon"
+	file = "GRE_emvatirio_ippikon.ogg"
+	volume = 1
+}
+music = {
+	name = "emvatirio_serron"
+	file = "GRE_emvatirio_serron.ogg"
+	volume = 1
+}
+music = {
+	name = "emvatirio_smyrnis"
+	file = "GRE_emvatirio_smyrnis.ogg"
+	volume = 1
+}
+music = {
+	name = "ethnikos_stratos"
+	file = "GRE_ethnikos_stratos.ogg"
+	volume = 1
+}
+music = {
+	name = "ethnikos_ymnos"
+	file = "GRE_ethnikos_ymnos.ogg"
+	volume = 1
+}
+music = {
+	name = "floges_kriti"
+	file = "GRE_floges_kriti.ogg"
+	volume = 1
+}
+music = {
+	name = "fragosyriani"
+	file = "GRE_fragosyriani.ogg"
+	volume = 1
+}
+music = {
+	name = "hasapia"
+	file = "GRE_hasapia.ogg"
+	volume = 1
+}
+music = {
+	name = "hasapiko"
+	file = "GRE_hasapiko.ogg"
+	volume = 1
+}
+music = {
+	name = "hasaposervikos"
+	file = "GRE_hasaposervikos.ogg"
+	volume = 1
+}
+music = {
+	name = "karsilamas"
+	file = "GRE_karsilamas.ogg"
+	volume = 1
+}
+music = {
+	name = "katagrafi_margazioti"
+	file = "GRE_katagrafi_margazioti.ogg"
+	volume = 1
+}
+music = {
+	name = "kleftikos"
+	file = "GRE_kleftikos.ogg"
+	volume = 1
+}
+music = {
+	name = "koftos"
+	file = "GRE_koftos.ogg"
+	volume = 1
+}
+music = {
+	name = "leventis_kostanti"
+	file = "GRE_leventis_kostanti.ogg"
+	volume = 1
+}
+music = {
+	name = "makedonia_ksakousti"
+	file = "GRE_makedonia_ksakousti.ogg"
+	volume = 1
+}
+music = {
+	name = "mavri_vouna"
+	file = "GRE_mavri_vouna.ogg"
+	volume = 1
+}
+music = {
+	name = "na_tane"
+	file = "GRE_na_tane.ogg"
+	volume = 1
+}
+music = {
+	name = "naftis_egeou"
+	file = "GRE_naftis_egeou.ogg"
+	volume = 1
+}
+music = {
+	name = "papadhopoulos"
+	file = "GRE_papadhopoulos.ogg"
+	volume = 1
+}
+music = {
+	name = "pernaei_stratos"
+	file = "GRE_pernaei_stratos.ogg"
+	volume = 1
+}
+music = {
+	name = "pindos"
+	file = "GRE_pindos.ogg"
+	volume = 1
+}
+music = {
+	name = "prostagi_megali"
+	file = "GRE_prostagi_megali.ogg"
+	volume = 1
+}
+music = {
+	name = "pyrrichios"
+	file = "GRE_pyrrichios.ogg"
+	volume = 1
+}
+music = {
+	name = "saranta_palikaria"
+	file = "GRE_saranta_palikaria.ogg"
+	volume = 1
+}
+music = {
+	name = "sirtaki_zorba"
+	file = "GRE_sirtaki_zorba.ogg"
+	volume = 1
+}
+music = {
+	name = "svarniara"
+	file = "GRE_svarniara.ogg"
+	volume = 1
+}
+music = {
+	name = "syrtos"
+	file = "GRE_syrtos.ogg"
+	volume = 1
+}
+music = {
+	name = "tha_astrapi"
+	file = "GRE_tha_astrapi.ogg"
+	volume = 1
+}
+music = {
+	name = "thourios"
+	file = "GRE_thourios.ogg"
+	volume = 1
+}
+music = {
+	name = "tsamikos"
+	file = "GRE_tsamikos.ogg"
+	volume = 1
+}
+music = {
+	name = "vazi_doutse"
+	file = "GRE_vazi_doutse.ogg"
+	volume = 1
+}
+### TURKISH ###
+music = {
+	name = "anafartalar_marsi"
+	file = "TUR_anafartalar_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "aziziye_marsi"
+	file = "TUR_aziziye_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "bu_bayrak"
+	file = "TUR_bu_bayrak.ogg"
+	volume = 1
+}
+music = {
+	name = "cecen_kizi"
+	file = "TUR_cecen_kizi.ogg"
+	volume = 1
+}
+music = {
+	name = "ceddin_deden"
+	file = "TUR_ceddin_deden.ogg"
+	volume = 1
+}
+music = {
+	name = "devlet_marsi"
+	file = "TUR_devlet_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "erdi_bahar"
+	file = "TUR_erdi_bahar.ogg"
+	volume = 1
+}
+music = {
+	name = "fetih_marsi"
+	file = "TUR_fetih_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "gafil_bilir"
+	file = "TUR_gafil_bilir.ogg"
+	volume = 1
+}
+music = {
+	name = "genc_osman"
+	file = "TUR_genc_osman.ogg"
+	volume = 1
+}
+music = {
+	name = "guzel_asik"
+	file = "TUR_guzel_asik.ogg"
+	volume = 1
+}
+music = {
+	name = "hamidiye_marsi"
+	file = "TUR_hamidiye_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "harmandali"
+	file = "TUR_harmandali.ogg"
+	volume = 1
+}
+music = {
+	name = "hucum_marsi"
+	file = "TUR_hucum_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "istiklal_marsi"
+	file = "TUR_istiklal_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "izmir_marsi"
+	file = "TUR_izmir_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "kasap_hasavi"
+	file = "TUR_kasap_hasavi.ogg"
+	volume = 1
+}
+music = {
+	name = "kirimdan_gelirim"
+	file = "TUR_kirimdan_gelirim.ogg"
+	volume = 1
+}
+music = {
+	name = "kuffar"
+	file = "TUR_kuffar.ogg"
+	volume = 1
+}
+music = {
+	name = "mahmudiye_marsi"
+	file = "TUR_mahmudiye_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "mecidiye_marsi"
+	file = "TUR_mecidiye_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "mehter_vuruyor"
+	file = "TUR_mehter_vuruyor.ogg"
+	volume = 1
+}
+music = {
+	name = "meydani_derler"
+	file = "TUR_meydani_derler.ogg"
+	volume = 1
+}
+music = {
+	name = "ordu_marsi"
+	file = "TUR_ordu_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "osman_pasa"
+	file = "TUR_osman_pasa.ogg"
+	volume = 1
+}
+music = {
+	name = "resadiye_marsi"
+	file = "TUR_resadiye_marsi.ogg"
+	volume = 1
+}
+music = {
+	name = "rumeliyi_ordomuz"
+	file = "TUR_rumeliyi_ordomuz.ogg"
+	volume = 1
+}
+music = {
+	name = "tarihi_cevir"
+	file = "TUR_tarihi_cevir.ogg"
+	volume = 1
+}
+music = {
+	name = "valse_davet"
+	file = "TUR_valse_davet.ogg"
+	volume = 1
+}
+music = {
+	name = "yavuz_geliyor"
+	file = "TUR_yavuz_geliyor.ogg"
+	volume = 1
+}
+music = {
+	name = "yeni_malazgirt"
+	file = "TUR_yeni_malazgirt.ogg"
+	volume = 1
+}
+music = {
+	name = "yine_sahlaniyor"
+	file = "TUR_yine_sahlaniyor.ogg"
+	volume = 1
+}
+### EXTRA/MISC ###
+music = {
+	name = "army_victory"
+	file = "ROTW_army_victory.ogg"
+	volume = 1
+}
+music = {
+	name = "balgari_song"
+	file = "ROTW_balgari_song.ogg"
+	volume = 1
+}
+music = {
+	name = "bulgarian_people"
+	file = "ROTW_bulgarian_people.ogg"
+	volume = 1
+}
+music = {
+	name = "cheerful_battle"
+	file = "ROTW_cheerful_battle.ogg"
+	volume = 1
+}
+music = {
+	name = "feats_glory"
+	file = "ROTW_feats_glory.ogg"
+	volume = 1
+}
+music = {
+	name = "fejervary_marsch"
+	file = "ROTW_fejervary_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "filial_duty"
+	file = "ROTW_filial_duty.ogg"
+	volume = 1
+}
+music = {
+	name = "grenadiers_mars"
+	file = "ROTW_grenadiers_mars.ogg"
+	volume = 1
+}
+music = {
+	name = "klm_mars"
+	file = "ROTW_klm_mars.ogg"
+	volume = 1
+}
+music = {
+	name = "kmk_mars"
+	file = "ROTW_kmk_mars.ogg"
+	volume = 1
+}
+music = {
+	name = "koning_voetbal"
+	file = "ROTW_koning_voetbal.ogg"
+	volume = 1
+}
+music = {
+	name = "lom_chegan"
+	file = "ROTW_lom_chegan.ogg"
+	volume = 1
+}
+music = {
+	name = "magyer_indulo"
+	file = "ROTW_magyer_indulo.ogg"
+	volume = 1
+}
+music = {
+	name = "old_chasseurs"
+	file = "ROTW_old_chasseurs.ogg"
+	volume = 1
+}
+music = {
+	name = "petra_garda"
+	file = "ROTW_petra_garda.ogg"
+	volume = 1
+}
+music = {
+	name = "roxanne_montenegro"
+	file = "ROTW_roxanne_montenegro.ogg"
+	volume = 1
+}
+music = {
+	name = "srbija_mala"
+	file = "ROTW_srbija_mala.ogg"
+	volume = 1
+}
+music = {
+	name = "szent_laszlo"
+	file = "ROTW_szent_laszlo.ogg"
+	volume = 1
+}
+music = {
+	name = "vojvode_stepanovica"
+	file = "ROTW_vojvode_stepanovica.ogg"
+	volume = 1
+}
+# v1.2 #
+music = {
+	name = "hoxha_tungjatjeta"
+	file = "ROTW_hoxha_tungjatjeta.ogg"
+	volume = 1
+}
+music = {
+	name = "marshi_uck"
+	file = "ROTW_marshi_uck.ogg"
+	volume = 1
+}
+music = {
+	name = "rritu_nenes"
+	file = "ROTW_rritu_nenes.ogg"
+	volume = 1
+}
+music = {
+	name = "lule_malesore"
+	file = "ROTW_lule_malesore.ogg"
+	volume = 1
+}
+music = {
+	name = "voc"
+	file = "ROTW_voc.ogg"
+	volume = 1
+}
+music = {
+	name = "eldankajarven_jaa"
+	file = "ROTW_eldankajarven_jaa.ogg"
+	volume = 1
+}
+music = {
+	name = "sakkijarven_polkka"
+	file = "ROTW_sakkijarven_polkka.ogg"
+	volume = 1
+}
+music = {
+	name = "eika_veljeksia"
+	file = "ROTW_eika_veljeksia.ogg"
+	volume = 1
+}
+music = {
+	name = "jaa_isanmaa"
+	file = "ROTW_jaa_isanmaa.ogg"
+	volume = 1
+}
