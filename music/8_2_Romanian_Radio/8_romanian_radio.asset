@@ -1,0 +1,340 @@
+### ROMANIAN ###
+music = {
+	name = "alexandru_mars"
+	file = "ROM_alexandru_mars.ogg"
+	volume = 1
+}
+music = {
+	name = "amintire_haiduci"
+	file = "ROM_amintire_haiduci.ogg"
+	volume = 1
+}
+music = {
+	name = "ardealule_tine"
+	file = "ROM_ardealule_tine.ogg"
+	volume = 1
+}
+music = {
+	name = "basarabie_frumoasa"
+	file = "ROM_basarabie_frumoasa.ogg"
+	volume = 1
+}
+music = {
+	name = "batuta_saucesti"
+	file = "ROM_batuta_saucesti.ogg"
+	volume = 1
+}
+music = {
+	name = "bucium"
+	file = "ROM_bucium.ogg"
+	volume = 1
+}
+music = {
+	name = "caciulile_frunte"
+	file = "ROM_caciulile_frunte.ogg"
+	volume = 1
+}
+music = {
+	name = "canta_cucu"
+	file = "ROM_canta_cucu.ogg"
+	volume = 1
+}
+music = {
+	name = "ceausescun_frunte"
+	file = "ROM_ceausescun_frunte.ogg"
+	volume = 1
+}
+music = {
+	name = "ciobanelul"
+	file = "ROM_ciobanelul.ogg"
+	volume = 1
+}
+music = {
+	name = "ciocarlia"
+	file = "ROM_ciocarlia.ogg"
+	volume = 1
+}
+music = {
+	name = "ciuleandra"
+	file = "ROM_ciuleandra.ogg"
+	volume = 1
+}
+music = {
+	name = "dans_mocanesc"
+	file = "ROM_dans_mocanesc.ogg"
+	volume = 1
+}
+music = {
+	name = "decembre"
+	file = "ROM_decembre.ogg"
+	volume = 1
+}
+music = {
+	name = "desteaptate_romane"
+	file = "ROM_desteaptate_romane.ogg"
+	volume = 1
+}
+music = {
+	name = "doamne_ocrotestei"
+	file = "ROM_doamne_ocrotestei.ogg"
+	volume = 1
+}
+music = {
+	name = "dorul_calator"
+	file = "ROM_dorul_calator.ogg"
+	volume = 1
+}
+music = {
+	name = "drum_bun"
+	file = "ROM_drum_bun.ogg"
+	volume = 1
+}
+music = {
+	name = "dumitru_cantemir"
+	file = "ROM_dumitru_cantemir.ogg"
+	volume = 1
+}
+music = {
+	name = "firai_murg"
+	file = "ROM_firai_murg.ogg"
+	volume = 1
+}
+music = {
+	name = "frunzulita_musetel"
+	file = "ROM_frunzulita_musetel.ogg"
+	volume = 1
+}
+music = {
+	name = "garda_viteazul"
+	file = "ROM_garda_viteazul.ogg"
+	volume = 1
+}
+music = {
+	name = "glorie_clasei"
+	file = "ROM_glorie_clasei.ogg"
+	volume = 1
+}
+music = {
+	name = "groza_sluga"
+	file = "ROM_groza_sluga.ogg"
+	volume = 1
+}
+music = {
+	name = "guvernul_comunist"
+	file = "ROM_guvernul_comunist.ogg"
+	volume = 1
+}
+music = {
+	name = "hora_petresti"
+	file = "ROM_hora_petresti.ogg"
+	volume = 1
+}
+music = {
+	name = "hora_romaneasca"
+	file = "ROM_hora_romaneasca.ogg"
+	volume = 1
+}
+music = {
+	name = "hora_unirii"
+	file = "ROM_hora_unirii.ogg"
+	volume = 1
+}
+music = {
+	name = "imnul_eroilor"
+	file = "ROM_imnul_eroilor.ogg"
+	volume = 1
+}
+music = {
+	name = "inainte_tovarasi"
+	file = "ROM_inainte_tovarasi.ogg"
+	volume = 1
+}
+music = {
+	name = "infanterie_getica"
+	file = "ROM_infanterie_getica.ogg"
+	volume = 1
+}
+music = {
+	name = "innebunit_salcamii"
+	file = "ROM_innebunit_salcamii.ogg"
+	volume = 1
+}
+music = {
+	name = "juramant_putna"
+	file = "ROM_juramant_putna.ogg"
+	volume = 1
+}
+music = {
+	name = "la_revedere"
+	file = "ROM_la_revedere.ogg"
+	volume = 1
+}
+music = {
+	name = "lelita_carciumareasa"
+	file = "ROM_lelita_carciumareasa.ogg"
+	volume = 1
+}
+music = {
+	name = "lelita_saftita"
+	file = "ROM_lelita_saftita.ogg"
+	volume = 1
+}
+music = {
+	name = "margareta"
+	file = "ROM_margareta.ogg"
+	volume = 1
+}
+music = {
+	name = "maria_mirabela"
+	file = "ROM_maria_mirabela.ogg"
+}
+music = {
+	name = "marioara_gorj"
+	file = "ROM_marioara_gorj.ogg"
+	volume = 1
+}
+music = {
+	name = "mars_intampinare"
+	file = "ROM_mars_intampinare.ogg"
+	volume = 1
+}
+music = {
+	name = "mars_pionieresc"
+	file = "ROM_mars_pionieresc.ogg"
+	volume = 1
+}
+music = {
+	name = "marsul_iancu"
+	file = "ROM_marsul_iancu.ogg"
+	volume = 1
+}
+music = {
+	name = "marsul_marinei"
+	file = "ROM_marsul_marinei.ogg"
+	volume = 1
+}
+music = {
+	name = "marsul_vanatorilor"
+	file = "ROM_marsul_vanatorilor.ogg"
+	volume = 1
+}
+music = {
+	name = "maruntel_grosi"
+	file = "ROM_maruntel_grosi.ogg"
+	volume = 1
+}
+music = {
+	name = "mica_tiganiada"
+	file = "ROM_mica_tiganiada.ogg"
+	volume = 1
+}
+music = {
+	name = "miorita_bolnava"
+	file = "ROM_miorita_bolnava.ogg"
+	volume = 1
+}
+music = {
+	name = "nostru_steag"
+	file = "ROM_nostru_steag.ogg"
+	volume = 1
+}
+music = {
+	name = "nunuto"
+	file = "ROM_nunuto.ogg"
+	volume = 1
+}
+music = {
+	name = "partidul"
+	file = "ROM_partidul.ogg"
+	volume = 1
+}
+music = {
+	name = "pastorul_singuratic"
+	file = "ROM_pastorul_singuratic.ogg"
+	volume = 1
+}
+music = {
+	name = "plai_moldav"
+	file = "ROM_plai_moldav.ogg"
+	volume = 1
+}
+music = {
+	name = "ruga_parinti"
+	file = "ROM_ruga_parinti.ogg"
+	volume = 1
+}
+music = {
+	name = "sanie_zurgalai"
+	file = "ROM_sanie_zurgalai.ogg"
+	volume = 1
+}
+music = {
+	name = "scumpa_patrie"
+	file = "ROM_scumpa_patrie.ogg"
+	volume = 1
+}
+music = {
+	name = "steagul_rosu"
+	file = "ROM_steagul_rosu.ogg"
+	volume = 1
+}
+music = {
+	name = "stefan_cel_mare"
+	file = "ROM_stefan_cel_mare.ogg"
+	volume = 1
+}
+music = {
+	name = "suntem_romani"
+	file = "ROM_suntem_romani.ogg"
+	volume = 1
+}
+music = {
+	name = "tot_romanesc"
+	file = "ROM_tot_romanesc.ogg"
+	volume = 1
+}
+music = {
+	name = "traiasca_regele"
+	file = "ROM_traiasca_regele.ogg"
+	volume = 1
+}
+music = {
+	name = "traiasca_romania"
+	file = "ROM_traiasca_romania.ogg"
+	volume = 1
+}
+music = {
+	name = "transilvanie_frumoasa"
+	file = "ROM_transilvanie_frumoasa.ogg"
+	volume = 1
+}
+music = {
+	name = "treceti_carpatii"
+	file = "ROM_treceti_carpatii.ogg"
+	volume = 1
+}
+music = {
+	name = "treci_neica"
+	file = "ROM_treci_neica.ogg"
+	volume = 1
+}
+music = {
+	name = "trei_culori"
+	file = "ROM_trei_culori.ogg"
+	volume = 1
+}
+music = {
+	name = "victoria_mars"
+	file = "ROM_victoria_mars.ogg"
+	volume = 1
+}
+music = {
+	name = "vinul_ghiurghiuliu"
+	file = "ROM_vinul_ghiurghiuliu.ogg"
+	volume = 1
+}
+music = {
+	name = "zaraza"
+	file = "ROM_zaraza.ogg"
+	volume = 1
+}

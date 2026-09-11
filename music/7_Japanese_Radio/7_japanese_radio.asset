@@ -1,0 +1,387 @@
+### JAPANESE ###
+# v1.2
+music = {
+	name = "ageyo_hinomaru"
+	file = "ageyo_hinomaru.ogg"
+	volume = 1
+}
+music = {
+	name = "aikoku_koshinkyoku"
+	file = "aikoku_koshinkyoku.ogg"
+	volume = 1
+}
+music = {
+	name = "aizu_bandaisan"
+	file = "aizu_bandaisan.ogg"
+	volume = 1
+}
+music = {
+	name = "aka_tombo"
+	file = "aka_tombo.ogg"
+	volume = 1
+}
+music = {
+	name = "amerika_bakugeki"
+	file = "amerika_bakugeki.ogg"
+	volume = 1
+}
+music = {
+	name = "arawashi_uta"
+	file = "arawashi_uta.ogg"
+	volume = 1
+}
+music = {
+	name = "asadoya_yunta"
+	file = "asadoya_yunta.ogg"
+	volume = 1
+}
+music = {
+	name = "banzai_hitora"
+	file = "banzai_hitora.ogg"
+	volume = 1
+}
+music = {
+	name = "battleship_shikishima"
+	file = "battleship_shikishima.ogg"
+	volume = 1
+}
+music = {
+	name = "battotai"
+	file = "battotai.ogg"
+	volume = 1
+}
+music = {
+	name = "beiei_gekimetsu"
+	file = "beiei_gekimetsu.ogg"
+	volume = 1
+}
+music = {
+	name = "big_sky"
+	file = "big_sky.ogg"
+	volume = 1
+}
+music = {
+	name = "bon_hokkaido"
+	file = "bon_hokkaido.ogg"
+	volume = 1
+}
+music = {
+	name = "byakkotai"
+	file = "byakkotai.ogg"
+	volume = 1
+}
+music = {
+	name = "chichiyo_anata"
+	file = "chichiyo_anata.ogg"
+	volume = 1
+}
+music = {
+	name = "chikaradzuku_aija"
+	file = "chikaradzuku_aija.ogg"
+	volume = 1
+}
+music = {
+	name = "chiyoda_castle"
+	file = "chiyoda_castle.ogg"
+	volume = 1
+}
+music = {
+	name = "chizome_no_denrei"
+	file = "chizome_no_denrei.ogg"
+	volume = 1
+}
+music = {
+	name = "dai_koku"
+	file = "dai_koku.ogg"
+	volume = 1
+}
+music = {
+	name = "dato_beiei"
+	file = "dato_beiei.ogg"
+	volume = 1
+}
+music = {
+	name = "eirei_sanka"
+	file = "eirei_sanka.ogg"
+	volume = 1
+}
+music = {
+	name = "ezashi_oiwake"
+	file = "ezashi_oiwake.ogg"
+	volume = 1
+}
+music = {
+	name = "furusato"
+	file = "furusato.ogg"
+	volume = 1
+}
+music = {
+	name = "getsu_kin"
+	file = "getsu_kin.ogg"
+	volume = 1
+}
+music = {
+	name = "gochin"
+	file = "gochin.ogg"
+	volume = 1
+}
+music = {
+	name = "godan_kinuta"
+	file = "godan_kinuta.ogg"
+	volume = 1
+}
+music = {
+	name = "great_japan"
+	file = "great_japan.ogg"
+	volume = 1
+}
+music = {
+	name = "gunkan_koshinkyoku"
+	file = "gunkan_koshinkyoku.ogg"
+	volume = 1
+}
+music = {
+	name = "hanagasa_ondo"
+	file = "hanagasa_ondo.ogg"
+	volume = 1
+}
+music = {
+	name = "hawai_daikaisen"
+	file = "hawai_daikaisen.ogg"
+	volume = 1
+}
+music = {
+	name = "indo_sakusen"
+	file = "indo_sakusen.ogg"
+	volume = 1
+}
+music = {
+	name = "itsuki_komori"
+	file = "itsuki_komori.ogg"
+	volume = 1
+}
+music = {
+	name = "kachidoki_uta"
+	file = "kachidoki_uta.ogg"
+	volume = 1
+}
+music = {
+	name = "kagoshima_bushi"
+	file = "kagoshima_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "kaigara_bushi"
+	file = "kaigara_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "kakute_kamikaze"
+	file = "kakute_kamikaze.ogg"
+	volume = 1
+}
+music = {
+	name = "kanetsushiki_koshinkyoku"
+	file = "kanetsushiki_koshinkyoku.ogg"
+	volume = 1
+}
+music = {
+	name = "kato_hayabusa"
+	file = "kato_hayabusa.ogg"
+	volume = 1
+}
+music = {
+	name = "kiji_uta"
+	file = "kiji_uta.ogg"
+	volume = 1
+}
+music = {
+	name = "kimigayo_koshinkyoku"
+	file = "kimigayo_koshinkyoku.ogg"
+	volume = 1
+}
+music = {
+	name = "kogun_nyujo"
+	file = "kogun_nyujo.ogg"
+	volume = 1
+}
+music = {
+	name = "kokiriko_bushi"
+	file = "kokiriko_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "kuroda_bushi"
+	file = "kuroda_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "kushimoto_bushi"
+	file = "kushimoto_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "march_sun"
+	file = "march_sun.ogg"
+	volume = 1
+}
+music = {
+	name = "nagasaki_ochosan"
+	file = "nagasaki_ochosan.ogg"
+	volume = 1
+}
+music = {
+	name = "naniwa_bushi"
+	file = "naniwa_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "nihonkai_kaisen"
+	file = "nihonkai_kaisen.ogg"
+	volume = 1
+}
+music = {
+	name = "nippon_rikugun"
+	file = "nippon_rikugun.ogg"
+	volume = 1
+}
+music = {
+	name = "oedo_nihonbashi"
+	file = "oedo_nihonbashi.ogg"
+	volume = 1
+}
+music = {
+	name = "otemoyan"
+	file = "otemoyan.ogg"
+	volume = 1
+}
+music = {
+	name = "rabauru_kaigun"
+	file = "rabauru_kaigun.ogg"
+	volume = 1
+}
+music = {
+	name = "roei_uta"
+	file = "roei_uta.ogg"
+	volume = 1
+}
+music = {
+	name = "rokudan"
+	file = "rokudan.ogg"
+	volume = 1
+}
+music = {
+	name = "sado_okesa"
+	file = "sado_okesa.ogg"
+	volume = 1
+}
+music = {
+	name = "sakura_sakura"
+	file = "sakura_sakura.ogg"
+	volume = 1
+}
+music = {
+	name = "senyu"
+	file = "senyu.ogg"
+	volume = 1
+}
+music = {
+	name = "shinjo_bushi"
+	file = "shinjo_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "showa_ishin"
+	file = "showa_ishin.ogg"
+	volume = 1
+}
+music = {
+	name = "shussei_okoru"
+	file = "shussei_okoru.ogg"
+	volume = 1
+}
+music = {
+	name = "soran_bushi"
+	file = "soran_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "soushunfu"
+	file = "soushunfu.ogg"
+	volume = 1
+}
+music = {
+	name = "taiatari_seishin"
+	file = "taiatari_seishin.ogg"
+	volume = 1
+}
+music = {
+	name = "tairiku_koshinkyoku"
+	file = "tairiku_koshinkyoku.ogg"
+	volume = 1
+}
+music = {
+	name = "tairyou_utaikomi"
+	file = "tairyou_utaikomi.ogg"
+	volume = 1
+}
+music = {
+	name = "taisei_yokusan"
+	file = "taisei_yokusan.ogg"
+	volume = 1
+}
+music = {
+	name = "tanko_bushi"
+	file = "tanko_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "teki_ikuman"
+	file = "teki_ikuman.ogg"
+	volume = 1
+}
+music = {
+	name = "togetari_kamikaze"
+	file = "togetari_kamikaze.ogg"
+	volume = 1
+}
+music = {
+	name = "tohiko"
+	file = "tohiko.ogg"
+	volume = 1
+}
+music = {
+	name = "tokyo_koshinkyoku"
+	file = "tokyo_koshinkyoku.ogg"
+	volume = 1
+}
+music = {
+	name = "tokyo_ondo"
+	file = "tokyo_ondo.ogg"
+	volume = 1
+}
+music = {
+	name = "tsubasa_kudasai"
+	file = "tsubasa_kudasai.ogg"
+	volume = 1
+}
+music = {
+	name = "wakakoma_koshinkyoku"
+	file = "wakakoma_koshinkyoku.ogg"
+	volume = 1
+}
+music = {
+	name = "warera_guntai"
+	file = "warera_guntai.ogg"
+	volume = 1
+}
+music = {
+	name = "yagi_bushi"
+	file = "yagi_bushi.ogg"
+	volume = 1
+}
+music = {
+	name = "yokaren_uta"
+	file = "yokaren_uta.ogg"
+	volume = 1
+}
