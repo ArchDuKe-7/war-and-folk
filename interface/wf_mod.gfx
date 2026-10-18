@@ -1,0 +1,57 @@
+spriteTypes = {
+    spriteType = {
+		name = "GFX_german_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_german_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_russian_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_russian_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_french_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_french_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_british_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_british_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_american_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_american_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_italian_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_italian_radio.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_japanese_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_japanese_radio.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_polish_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_polish_radio.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_romanian_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_romanian_radio.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_spanish_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_spanish_radio.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_rotw_radio"
+		textureFile = "gfx//interface//topbar//musicplayer//wf_rotw_radio.dds"
+		noOfFrames = 2
+	}
+}

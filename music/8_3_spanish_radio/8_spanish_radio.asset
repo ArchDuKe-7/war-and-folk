@@ -1,0 +1,171 @@
+### SPANISH ###
+### v1.4 ###
+music = {
+	name = "marcha_real" # National Anthem
+	file = "marcha_real.ogg"
+	volume = 1
+}
+# Republican / CNT-FAI #
+music = {
+	name = "ay_carmela"
+	file = "ay_carmela.ogg"
+	volume = 1
+}
+music = {
+	name = "el_regimiento"
+	file = "el_regimiento.ogg"
+	volume = 1
+}
+music = {
+	name = "los_generales"
+	file = "los_generales.ogg"
+	volume = 1
+}
+music = {
+	name = "no_pasaran"
+	file = "no_pasaran.ogg"
+	volume = 1
+}
+music = {
+	name = "si_escribir"
+	file = "si_escribir.ogg"
+	volume = 1
+}
+music = {
+	name = "himno_riego"
+	file = "himno_riego.ogg"
+	volume = 1
+}
+music = {
+	name = "a_barricadas"
+	file = "a_barricadas.ogg"
+	volume = 1
+}
+music = {
+	name = "en_pueblo"
+	file = "en_pueblo.ogg"
+	volume = 1
+}
+music = {
+	name = "hijos_pueblo"
+	file = "hijos_pueblo.ogg"
+	volume = 1
+}
+music = {
+	name = "salud_proletarios"
+	file = "salud_proletarios.ogg"
+	volume = 1
+}
+music = {
+	name = "viva_fai"
+	file = "viva_fai.ogg"
+	volume = 1
+}
+music = {
+	name = "la_espina"
+	file = "la_espina.ogg"
+	volume = 1
+}
+music = {
+	name = "eusko_gudariak" # Republican Basque
+	file = "eusko_gudariak.ogg"
+	volume = 1
+}
+# Nationalist / Falangist #
+music = {
+	name = "himno_azul" # The Blue Division
+	file = "himno_azul.ogg"
+	volume = 1
+}
+music = {
+	name = "saludo_franco"
+	file = "saludo_franco.ogg"
+	volume = 1
+}
+music = {
+	name = "tenemos_caudillo"
+	file = "tenemos_caudillo.ogg"
+	volume = 1
+}
+music = {
+	name = "himno_civil" # Francoist Version
+	file = "himno_civil.ogg"
+	volume = 1
+}
+music = {
+	name = "himno_trabajo"
+	file = "himno_trabajo.ogg"
+	volume = 1
+}
+music = {
+	name = "falangista_soy"
+	file = "falangista_soy.ogg"
+	volume = 1
+}
+music = {
+	name = "cara_sol"
+	file = "cara_sol.ogg"
+	volume = 1
+}
+music = {
+	name = "cancion_flecha"
+	file = "cancion_flecha.ogg"
+	volume = 1
+}
+music = {
+	name = "arriba_espana"
+	file = "arriba_espana.ogg"
+	volume = 1
+}
+# Carlist # 
+music = {
+	name = "viva_requete"
+	file = "viva_requete.ogg"
+	volume = 1
+}
+music = {
+	name = "un_patria"
+	file = "un_patria.ogg"
+	volume = 1
+}
+music = {
+	name = "soy_carlista"
+	file = "soy_carlista.ogg"
+	volume = 1
+}
+music = {
+	name = "oriamendi"
+	file = "oriamendi.ogg"
+	volume = 1
+}
+music = {
+	name = "ai_mutilak" # Carlist Basque
+	file = "ai_mutilak.ogg"
+	volume = 1
+}
+# Military #
+music = {
+	name = "desfilando"
+	file = "desfilando.ogg"
+	volume = 1
+}
+music = {
+	name = "el_turuta"
+	file = "el_turuta.ogg"
+	volume = 1
+}
+music = {
+	name = "cancion_legionario"
+	file = "cancion_legionario.ogg"
+	volume = 1
+}
+music = {
+	name = "tercios_heroicos"
+	file = "tercios_heroicos.ogg"
+	volume = 1
+}
+music = {
+	name = "marcha_cadiz"
+	file = "marcha_cadiz.ogg"
+	volume = 1
+}

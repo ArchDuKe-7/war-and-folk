@@ -1,0 +1,1099 @@
+music_station = "spanish_radio"
+### SPANISH ###
+music = {
+	song = "marcha_real"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "a_barricadas"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "ai_mutilak"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "arriba_espana"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = fascism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "ay_carmela"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "cancion_flecha"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = fascism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "cancion_legionario"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "cara_sol"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = fascism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "desfilando"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "el_turuta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "el_regimiento"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "en_pueblo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "eusko_gudariak"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "falangista_soy"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = fascism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "hijos_pueblo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "himno_azul"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = fascism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "himno_civil"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = fascism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "himno_riego"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "himno_trabajo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = fascism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "a_barricadas"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}music = {
+	song = "la_espina"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "los_generales"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "marcha_cadiz"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "no_pasaran"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "oriamendi"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "salud_proletarios"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "saludo_franco"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = fascism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "si_escribir"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = democratic
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "soy_carlista"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tenemos_caudillo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = fascism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tercios_heroicos"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "un_patria"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "viva_fai"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = communism
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "viva_requete"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1948.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_government = neutrality
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}

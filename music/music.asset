@@ -1,5 +1,9 @@
 music = {
 	name = "maintheme"
+<<<<<<< Updated upstream
 	file = "das_ist_berlin_theme.ogg"
+=======
+	file = "wf_medley.ogg"
+>>>>>>> Stashed changes
 	volume = 0.25
 }
