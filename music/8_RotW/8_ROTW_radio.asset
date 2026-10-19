@@ -448,11 +448,6 @@ music = {
 	volume = 1
 }
 music = {
-	name = "marshi_uck"
-	file = "ROTW_marshi_uck.ogg"
-	volume = 1
-}
-music = {
 	name = "rritu_nenes"
 	file = "ROTW_rritu_nenes.ogg"
 	volume = 1
@@ -491,5 +486,31 @@ music = {
 music = {
 	name = "st_patrick"
 	file = "ROTW_st_patrick.ogg"
+	volume = 1
+}
+### v1.4 ###
+music = {
+	name = "cidade_invicta"
+	file = "ROTW_cidade_invicta.ogg"
+	volume = 1
+}
+music = {
+	name = "maria_fonte"
+	file = "ROTW_maria_fonte.ogg"
+	volume = 1
+}
+music = {
+	name = "pela_grei"
+	file = "ROTW_pela_grei.ogg"
+	volume = 1
+}
+music = {
+	name = "cacadores_1"
+	file = "ROTW_cacadores_1.ogg"
+	volume = 1
+}
+music = {
+	name = "portugal_eterno"
+	file = "ROTW_portugal_eterno.ogg"
 	volume = 1
 }

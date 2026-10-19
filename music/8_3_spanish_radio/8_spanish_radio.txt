@@ -7,17 +7,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -36,17 +36,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -69,17 +69,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -102,17 +102,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -129,23 +129,52 @@ music = {
 	}
 }
 music = {
+	song = "asturias_querida"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "ay_carmela"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -162,23 +191,81 @@ music = {
 	}
 }
 music = {
+	song = "bolero_mallorqui"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "cancion_ronda"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "cancion_flecha"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -201,17 +288,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -230,17 +317,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -257,23 +344,52 @@ music = {
 	}
 }
 music = {
+	song = "charradas"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "desfilando"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -282,6 +398,180 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = no
+		}
+	}
+}
+music = {
+	song = "donde_morena"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "el_candil"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "el_ocells"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "el_mestre"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "el_pep"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "el_trepele"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
 		}
 	}
 }
@@ -292,17 +582,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -315,23 +605,52 @@ music = {
 	}
 }
 music = {
+	song = "el_vito"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "el_regimiento"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -354,17 +673,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -387,17 +706,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -420,17 +739,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -447,23 +766,52 @@ music = {
 	}
 }
 music = {
+	song = "fandango_viejo"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "hijos_pueblo"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -486,17 +834,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -519,17 +867,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -552,17 +900,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -585,17 +933,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -612,55 +960,139 @@ music = {
 	}
 }
 music = {
-	song = "a_barricadas"
+	song = "jota_ciudad"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
-			has_government = communism
-		}
-		modifier = {
-			factor = 2.0
-			has_war = yes
+			has_war = no
 		}
 		modifier = {
 			factor = 0.5
-			has_war = no
+			has_war = yes
 		}
 	}
-}music = {
+}
+music = {
+	song = "jota_zaragoza"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "la_pesol"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "la_reja"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "la_espina"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -677,23 +1109,52 @@ music = {
 	}
 }
 music = {
+	song = "lili_bat"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "los_generales"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -710,23 +1171,52 @@ music = {
 	}
 }
 music = {
+	song = "manico_puerta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "marcha_cadiz"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -739,23 +1229,81 @@ music = {
 	}
 }
 music = {
+	song = "mazurca_reyes"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
+	song = "muneira_zocos"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "no_pasaran"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -778,17 +1326,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -805,23 +1353,52 @@ music = {
 	}
 }
 music = {
+	song = "pandeirada"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "salud_proletarios"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -844,17 +1421,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -871,23 +1448,52 @@ music = {
 	}
 }
 music = {
+	song = "seguidillas_manchegas"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "si_escribir"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -910,17 +1516,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -937,23 +1543,52 @@ music = {
 	}
 }
 music = {
+	song = "suena_margarita"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "tenemos_caudillo"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -976,17 +1611,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1005,17 +1640,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1032,23 +1667,52 @@ music = {
 	}
 }
 music = {
+	song = "viva_aragon"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = SPR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = no
+		}
+		modifier = {
+			factor = 0.5
+			has_war = yes
+		}
+	}
+}
+music = {
 	song = "viva_fai"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1071,17 +1735,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = SPR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0

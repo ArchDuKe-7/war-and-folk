@@ -1,0 +1,278 @@
+### POLISH ###
+# v1.0 #
+music = {
+	name = "biale_roze"
+	file = "POL_biale_roze.ogg"
+	volume = 1
+}
+music = {
+	name = "bogurodzica"
+	file = "POL_bogurodzica.ogg"
+	volume = 1
+}
+music = {
+	name = "bystra_woda"
+	file = "POL_bystra_woda.ogg"
+	volume = 1
+}
+music = {
+	name = "czergone_jagody"
+	file = "POL_czergone_jagody.ogg"
+	volume = 1
+}
+music = {
+	name = "czerwony_pas"
+	file = "POL_czerwony_pas.ogg"
+	volume = 1
+}
+music = {
+	name = "gaude_mater"
+	file = "POL_gaude_mater.ogg"
+	volume = 1
+}
+music = {
+	name = "goralu_zal"
+	file = "POL_goralu_zal.ogg"
+	volume = 1
+}
+music = {
+	name = "hej_sokoly"
+	file = "POL_hej_sokoly.ogg"
+	volume = 1
+}
+music = {
+	name = "hej_ulani"
+	file = "POL_hej_ulani.ogg"
+	volume = 1
+}
+music = {
+	name = "jak_stal"
+	file = "POL_jak_stal.ogg"
+	volume = 1
+}
+music = {
+	name = "konfederatow_barskich"
+	file = "POL_konfederatow_barskich.ogg"
+	volume = 1
+}
+music = {
+	name = "kukuleckza"
+	file = "POL_kukuleckza.ogg"
+	volume = 1
+}
+music = {
+	name = "leguny_niebie"
+	file = "POL_leguny_niebie.ogg"
+	volume = 1
+}
+music = {
+	name = "lipka"
+	file = "POL_lipka.ogg"
+	volume = 1
+}
+music = {
+	name = "marsz_kosciuszkowcow"
+	file = "POL_marsz_kosciuszkowcow.ogg"
+	volume = 1
+}
+music = {
+	name = "marsz_lotnikow"
+	file = "POL_marsz_lotnikow.ogg"
+	volume = 1
+}
+music = {
+	name = "marsz_polonii"
+	file = "POL_marsz_polonii.ogg"
+	volume = 1
+}
+music = {
+	name = "marsz_powitalny"
+	file = "POL_marsz_powitalny.ogg"
+	volume = 1
+}
+music = {
+	name = "mazurek_dabrowskiego"
+	file = "POL_mazurek_dabrowskiego.ogg"
+	volume = 1
+}
+music = {
+	name = "moim_ogrodecku"
+	file = "POL_moim_ogrodecku.ogg"
+	volume = 1
+}
+music = {
+	name = "monte_cassino"
+	file = "POL_monte_cassino.ogg"
+	volume = 1
+}
+music = {
+	name = "nie_zolnierza"
+	file = "POL_nie_zolnierza.ogg"
+	volume = 1
+}
+music = {
+	name = "odwach"
+	file = "POL_odwach.ogg"
+	volume = 1
+}
+music = {
+	name = "ojczyzna"
+	file = "POL_ojczyzna.ogg"
+	volume = 1
+}
+music = {
+	name = "palacyk_michla"
+	file = "POL_palacyk_michla.ogg"
+	volume = 1
+}
+music = {
+	name = "piechota"
+	file = "POL_piechota.ogg"
+	volume = 1
+}
+music = {
+	name = "pierwsza_brygada"
+	file = "POL_pierwsza_brygada.ogg"
+	volume = 1
+}
+music = {
+	name = "pod_okienko"
+	file = "POL_pod_okienko.ogg"
+	volume = 1
+}
+music = {
+	name = "przasnickza"
+	file = "POL_przasnickza.ogg"
+	volume = 1
+}
+music = {
+	name = "rota"
+	file = "POL_rota.ogg"
+	volume = 1
+}
+music = {
+	name = "rozmarynie"
+	file = "POL_rozmarynie.ogg"
+	volume = 1
+}
+music = {
+	name = "serce_plecaku"
+	file = "POL_serce_plecaku.ogg"
+	volume = 1
+}
+music = {
+	name = "siekiera_motyka"
+	file = "POL_siekiera_motyka.ogg"
+	volume = 1
+}
+music = {
+	name = "smagly"
+	file = "POL_smagly.ogg"
+	volume = 1
+}
+music = {
+	name = "swidryga_midryga"
+	file = "POL_swidryga_midryga.ogg"
+	volume = 1
+}
+music = {
+	name = "szla_dzieweckza"
+	file = "POL_szla_dzieweckza.ogg"
+	volume = 1
+}
+music = {
+	name = "szwolezerowie"
+	file = "POL_szwolezerowie.ogg"
+	volume = 1
+}
+music = {
+	name = "to_hola"
+	file = "POL_to_hola.ogg"
+	volume = 1
+}
+music = {
+	name = "walczyc_mamo"
+	file = "POL_walczyc_mamo.ogg"
+	volume = 1
+}
+music = {
+	name = "warszawianka"
+	file = "POL_warszawianka.ogg"
+	volume = 1
+}
+music = {
+	name = "warszawskie_dzieci"
+	file = "POL_warszawskie_dzieci.ogg"
+	volume = 1
+}
+music = {
+	name = "wierzby_placzace"
+	file = "POL_wierzby_placzace.ogg"
+	volume = 1
+}
+music = {
+	name = "wojenko_wojenko"
+	file = "POL_wojenko_wojenko.ogg"
+	volume = 1
+}
+music = {
+	name = "zasiali_gorale"
+	file = "POL_zasiali_gorale.ogg"
+	volume = 1
+}
+music = {
+	name = "zielonym_gaju"
+	file = "POL_zielonym_gaju.ogg"
+	volume = 1
+}
+# v1.2 #
+music = {
+	name = "morze_morze"
+	file = "POL_morze_morze.ogg"
+	volume = 1
+}
+music = {
+	name = "hej_bron"
+	file = "POL_hej_bron.ogg"
+	volume = 1
+}
+music = {
+	name = "deszcz_deszcz"
+	file = "POL_deszcz_deszcz.ogg"
+	volume = 1
+}
+music = {
+	name = "oka"
+	file = "POL_oka.ogg"
+	volume = 1
+}
+music = {
+	name = "marsz_mokotowa"
+	file = "POL_marsz_mokotowa.ogg"
+	volume = 1
+}
+music = {
+	name = "dzis_moge"
+	file = "POL_dzis_moge.ogg"
+	volume = 1
+}
+music = {
+	name = "boze_polske"
+	file = "POL_boze_polske.ogg"
+	volume = 1
+}
+music = {
+	name = "sanitariuszka_malgorzatka"
+	file = "POL_sanitariuszka_malgorzatka.ogg"
+	volume = 1
+}
+music = {
+	name = "spalonych_wsi"
+	file = "POL_spalonych_wsi.ogg"
+	volume = 1
+}
+music = {
+	name = "idzie_zolnierz"
+	file = "POL_idzie_zolnierz.ogg"
+	volume = 1
+}

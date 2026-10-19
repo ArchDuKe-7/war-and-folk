@@ -62,11 +62,6 @@ music = {
 	volume = 1
 }
 music = {
-	name = "la_espina"
-	file = "la_espina.ogg"
-	volume = 1
-}
-music = {
 	name = "eusko_gudariak" # Republican Basque
 	file = "eusko_gudariak.ogg"
 	volume = 1
@@ -167,5 +162,131 @@ music = {
 music = {
 	name = "marcha_cadiz"
 	file = "marcha_cadiz.ogg"
+	volume = 1
+}
+### Folk ###
+music = {
+	name = "el_vito" # Andalucia
+	file = "el_vito.ogg"
+	volume = 1
+}
+music = {
+	name = "la_reja" # Andalucia
+	file = "la_reja.ogg"
+	volume = 1
+}
+music = {
+	name = "suena_margarita" # Andalucia
+	file = "suena_margarita.ogg"
+	volume = 1
+}
+music = {
+	name = "el_candil" # Extremadura
+	file = "el_candil.ogg"
+	volume = 1
+}
+music = {
+	name = "mazurca_reyes" # Castilla la Mancha
+	file = "mazurca_reyes.ogg"
+	volume = 1
+}
+music = {
+	name = "jota_ciudad" # Castilla la Mancha
+	file = "jota_ciudad.ogg"
+	volume = 1
+}
+music = {
+	name = "seguidillas_manchegas" # Castilla la Mancha
+	file = "seguidillas_manchegas.ogg"
+	volume = 1
+}
+music = {
+	name = "cancion_ronda" # Castilla-Leon
+	file = "cancion_ronda.ogg"
+	volume = 1
+}
+music = {
+	name = "donde_morena" # Castilla-Leon
+	file = "donde_morena.ogg"
+	volume = 1
+}
+music = {
+	name = "charradas" # Castilla-Leon
+	file = "charradas.ogg"
+	volume = 1
+}
+music = {
+	name = "fandango_viejo" # Galicia
+	file = "fandango_viejo.ogg"
+	volume = 1
+}
+music = {
+	name = "pandeirada" # Galicia
+	file = "pandeirada.ogg"
+	volume = 1
+}
+music = {
+	name = "muneira_zocos" # Galicia
+	file = "muneira_zocos.ogg"
+	volume = 1
+}
+music = {
+	name = "asturias_querida" # Asturias
+	file = "asturias_querida.ogg"
+	volume = 1
+}
+music = {
+	name = "el_trepele" # Cantabria
+	file = "el_trepele.ogg"
+	volume = 1
+}
+music = {
+	name = "lili_bat" # Navarra
+	file = "lili_bat.ogg"
+	volume = 1
+}
+music = {
+	name = "manico_puerta" # Aragon
+	file = "manico_puerta.ogg"
+	volume = 1
+}
+music = {
+	name = "viva_aragon" # Aragon
+	file = "viva_aragon.ogg"
+	volume = 1
+}
+music = {
+	name = "jota_zaragoza" # Aragon
+	file = "jota_zaragoza.ogg"
+	volume = 1
+}
+music = {
+	name = "la_espina" # Cataluna
+	file = "la_espina.ogg"
+	volume = 1
+}
+music = {
+	name = "el_mestre" # Cataluna
+	file = "el_mestre.ogg"
+	volume = 1
+}
+music = {
+	name = "el_ocells" # Cataluna
+	file = "el_ocells.ogg"
+	volume = 1
+}
+music = {
+	name = "el_pep" # Valencia
+	file = "el_pep.ogg"
+	volume = 1
+}
+music = {
+	name = "la_pesol" # Valencia
+	file = "la_pesol.ogg"
+	volume = 1
+}
+music = {
+	name = "bolero_mallorqui" # Mallorca / Baleares
+	file = "bolero_mallorqui.ogg"
 	volume = 1
 }

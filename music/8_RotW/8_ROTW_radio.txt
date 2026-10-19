@@ -7,17 +7,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -36,17 +36,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -65,17 +65,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -94,17 +94,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -123,17 +123,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -152,17 +152,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -181,17 +181,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -210,17 +210,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -239,17 +239,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -268,17 +268,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -297,17 +297,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -326,17 +326,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -355,17 +355,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -384,17 +384,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -413,17 +413,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -442,17 +442,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -471,17 +471,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -500,17 +500,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -529,17 +529,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -558,17 +558,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -587,17 +587,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -616,17 +616,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -645,17 +645,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -674,17 +674,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -703,17 +703,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -732,17 +732,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -761,17 +761,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -790,17 +790,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -819,17 +819,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -848,17 +848,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -877,17 +877,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -906,17 +906,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -935,17 +935,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -964,17 +964,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -993,17 +993,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1022,17 +1022,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1051,17 +1051,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = GRE
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1081,17 +1081,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1110,17 +1110,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1139,17 +1139,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1168,17 +1168,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1197,17 +1197,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1226,17 +1226,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1255,17 +1255,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1284,17 +1284,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1313,17 +1313,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1342,17 +1342,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1371,17 +1371,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1400,17 +1400,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1429,17 +1429,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1458,17 +1458,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1487,17 +1487,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1516,17 +1516,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1545,17 +1545,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1574,17 +1574,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1603,17 +1603,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1632,17 +1632,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1661,17 +1661,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1690,17 +1690,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1719,17 +1719,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1748,17 +1748,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1777,17 +1777,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1806,17 +1806,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1835,17 +1835,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1864,17 +1864,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1893,17 +1893,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1922,17 +1922,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1951,17 +1951,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -1980,17 +1980,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = TUR
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2010,17 +2010,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = ALB
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = ALB
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = ALB
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2039,17 +2039,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = ALB
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = ALB
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = ALB
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2058,35 +2058,6 @@ music = {
 		modifier = {
 			factor = 0.5
 			has_war = yes
-		}
-	}
-}
-music = {
-	song = "marshi_uck"
-	chance = {
-		base = 1.0
-		modifier = {
-			factor = 10.0
-			tag = ALB
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			is_in_faction_with = ALB
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 0.1
-			has_war_with = ALB
-			date < "1948.1.1"
-		}
-		modifier = {
-			factor = 2.0
-			has_war = yes
-		}
-		modifier = {
-			factor = 0.5
-			has_war = no
 		}
 	}
 }
@@ -2097,17 +2068,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = ALB
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = ALB
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = ALB
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2126,17 +2097,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2155,17 +2126,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2184,17 +2155,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2213,17 +2184,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2242,17 +2213,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2271,17 +2242,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2300,17 +2271,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = BUL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2329,17 +2300,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2358,17 +2329,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2387,17 +2358,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2416,17 +2387,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = FIN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2445,17 +2416,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = HUN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = HUN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = HUN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2474,17 +2445,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = HUN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = HUN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = HUN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2503,17 +2474,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = HUN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = HUN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = HUN
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2532,17 +2503,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2561,17 +2532,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2590,17 +2561,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2619,17 +2590,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2648,17 +2619,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = HOL
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2671,23 +2642,168 @@ music = {
 	}
 }
 music = {
+	song = "cacadores_1"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "cidade_invicta"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "maria_fonte"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "pela_grei"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "portugal_eterno"
+	chance = {
+		base = 1.0
+		modifier = {
+			factor = 10.0
+			tag = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			is_in_faction_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 0.1
+			has_war_with = POR
+			date < "1949.1.1"
+		}
+		modifier = {
+			factor = 2.0
+			has_war = yes
+		}
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+	}
+}
+music = {
 	song = "petra_garda"
 	chance = {
 		base = 1.0
 		modifier = {
 			factor = 10.0
 			tag = YUG
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = YUG
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = YUG
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2706,17 +2822,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = YUG
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = YUG
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = YUG
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
@@ -2735,17 +2851,17 @@ music = {
 		modifier = {
 			factor = 10.0
 			tag = YUG
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
 			is_in_faction_with = YUG
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 0.1
 			has_war_with = YUG
-			date < "1948.1.1"
+			date < "1949.1.1"
 		}
 		modifier = {
 			factor = 2.0
